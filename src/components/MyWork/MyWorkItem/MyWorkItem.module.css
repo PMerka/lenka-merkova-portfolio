@@ -1,0 +1,24 @@
+.myWorkItem{
+    min-height: 200px;
+    padding: 15px;
+    box-shadow: 2px 2px 15px gray;
+    border-radius: 5px ;
+    display: flex;
+    flex-direction: column;
+}
+
+.titleSection{
+    flex: 1;
+}
+
+.title{
+    text-align: center;
+    text-wrap: balance;
+}
+
+.myWorkItemImg{
+    width: 90%;
+    margin: 5%;
+    aspect-ratio: 1;
+    border-radius: 5px;
+}

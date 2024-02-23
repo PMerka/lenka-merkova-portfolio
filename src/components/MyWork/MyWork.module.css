@@ -1,0 +1,13 @@
+.myWork{
+    scroll-margin-top: 100px;
+}
+
+.myWorkGrid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(150px, 1fr));
+    gap: 1em;
+}
+
+@media only screen and (min-width: 800px) {
+    .myWorkGrid {grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));}
+}

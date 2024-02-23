@@ -1,0 +1,22 @@
+.priceList{
+    margin-top: 100px;
+    scroll-margin-top: 100px;
+}
+
+.priceListContent{
+    display: flex;
+    gap: 0px;
+    flex-direction: column;
+}
+
+@media only screen and (min-width: 800px) {
+    .priceListContent{
+        display: flex;
+        gap: 40px;
+        flex-direction: row;
+    }
+}
+
+.column{
+    flex: 1
+}

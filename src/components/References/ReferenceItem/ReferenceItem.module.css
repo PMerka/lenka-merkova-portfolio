@@ -1,0 +1,38 @@
+.referenceItem{
+    border-radius: 5px;
+    min-height: 100px;
+    overflow: hidden;
+    box-shadow: 2px 2px 15px gray;
+}
+
+.topText{
+    text-align: center;
+    text-wrap: balance;
+    background-color: var(--purple-dark);
+    color: var(--main-bg-color);
+    padding: 2em;
+    font-style: italic;
+}
+
+.quoteMark{
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.mainText{
+    padding: 2em;
+}
+
+.footer{
+    text-align: center;
+    padding: 20px 20px 30px;
+}
+
+.author{
+    margin-bottom: 0.5em;
+    font-weight: 700;
+}
+
+.authorDescription{
+    opacity: 0.8;
+}

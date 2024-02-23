@@ -1,0 +1,23 @@
+.footer{
+    background-color: #e8e1d7;
+    width: 100%;
+    padding: 30px 0;
+}
+
+.footerContent{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    min-height: 3em;
+    padding: 0 20px;
+    flex-wrap: wrap;
+}
+.footerRight{
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+}

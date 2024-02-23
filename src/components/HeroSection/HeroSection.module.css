@@ -1,0 +1,50 @@
+.heroSection{
+    width: 100%;
+    display: flex;
+    min-height: 60vh;
+    align-items: center;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    scroll-margin-top: 50px;
+}
+
+.texts{
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.textPosition{
+    margin: 50px;
+}
+
+.title{
+    padding-right: 1em;
+}
+
+.subTitle{
+    right: 0;
+    text-align: right;
+    font-size: 2em;
+}
+
+.profileImage{
+    height: max(40vh, 400px);
+    margin-bottom: -100px;
+}
+
+.intro{
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+.list{
+     margin-top: 30px;
+     font-size: 1.2rem;
+}
+
+@media only screen and (min-width: 800px) {
+    .profileImage {height: max(40vh, 600px); }
+  }

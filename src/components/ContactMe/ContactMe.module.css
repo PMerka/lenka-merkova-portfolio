@@ -1,0 +1,16 @@
+.contactMe{
+    scroll-margin-top: 100px;
+}
+
+.content{
+    display: flex;
+    gap: 20px
+}
+
+.leftColumn{
+    flex: 2;
+}
+
+.rightColumn{
+    flex: 1;
+}
