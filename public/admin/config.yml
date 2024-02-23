@@ -11,7 +11,7 @@ collections:
     files:
       - label: "Úvodní sekce"
         name: "home"
-        file: "content/heroSection.mdx"
+        file: "content/heroSection.md"
         fields:
           - { label: "Hlavní nadpis", name: "title", widget: "string" }
           - { label: "Podnadpis", name: "subtitle", widget: "string" }
