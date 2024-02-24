@@ -1,8 +1,12 @@
 ---
 title: TEST
 subtitle: test
+body2: |-
+  začátek markdown2
+
+  test
 ---
-test
+začátek markdown1
 
 #### **jhfvkzhgv**
 
