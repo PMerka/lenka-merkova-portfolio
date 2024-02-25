@@ -15,6 +15,7 @@ collections:
         fields:
           - { label: "Hlavní nadpis", name: "title", widget: "string" }
           - { label: "Podnadpis", name: "subtitle", widget: "string" }
+          - { label: "Krátký text", name: "shortText", widget: "string" }
           - {
               label: "Úvodní seznam",
               name: "introList",

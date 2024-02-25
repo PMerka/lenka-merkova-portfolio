@@ -1,4 +1,4 @@
 declare module '*.md' {
-    const attributes: Record<string, number>;
+    const attributes: Record<string, unknown>;
     export { attributes };
   }

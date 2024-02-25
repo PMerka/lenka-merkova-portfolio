@@ -4,8 +4,13 @@ import Button from "../Button/Button";
 import { attributes } from "/content/heroSection.md";
 
 export default function HeroSection() {
-  const { title, subtitle } = attributes;
-  console.log("title", title);
+  const { title, subtitle, shortText, introList, buttonText } = attributes as {
+    title: string;
+    subtitle: string;
+    shortText: string;
+    introList: string[];
+    buttonText: string;
+  };
   return (
     <div className={styles.heroSection}>
       <div className={styles.texts}>
@@ -15,13 +20,14 @@ export default function HeroSection() {
         </div>
 
         <div className={styles.intro}>
-          Texty, které vaší značce propůjčí ty správné vibrace
+          {shortText}
           <ul className={styles.list}>
-            <li>Máte super vizi, ale nedokážete ji promítnout do slov?</li>
-            <li>Hledáte někoho, kdo si s vašimi texty pohraje?</li>
+            {introList.map((item, index) => (
+              <li key={index}>{item}</li>
+            ))}
           </ul>
         </div>
-        <Button> Nechte to na mně </Button>
+        <Button> {buttonText} </Button>
       </div>
 
       <img className={styles.profileImage} src="/images/profileImage.png" />
