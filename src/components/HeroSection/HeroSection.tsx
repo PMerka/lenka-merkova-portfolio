@@ -1,14 +1,17 @@
 import React from "react";
 import styles from "./HeroSection.module.css";
 import Button from "../Button/Button";
+import { attributes } from "/content/heroSection.md";
 
 export default function HeroSection() {
+  const { title, subtitle } = attributes;
+  console.log("title", title);
   return (
     <div className={styles.heroSection}>
       <div className={styles.texts}>
         <div className={styles.textPosition}>
-          <h1 className={styles.title}>SLOVA MAJÍ ENERGII</h1>
-          <div className={styles.subTitle}>VYUŽIJME TOHO</div>
+          <h1 className={styles.title}>{title}</h1>
+          <div className={styles.subTitle}>{subtitle}</div>
         </div>
 
         <div className={styles.intro}>

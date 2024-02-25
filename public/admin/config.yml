@@ -15,3 +15,16 @@ collections:
         fields:
           - { label: "Hlavní nadpis", name: "title", widget: "string" }
           - { label: "Podnadpis", name: "subtitle", widget: "string" }
+          - {
+              label: "Úvodní seznam",
+              name: "introList",
+              allow_add: true,
+              collapsed: false,
+              widget: "list",
+              field:
+                {
+                  label: Položka úvodního seznamu,
+                  name: textItem,
+                  widget: "string",
+                },
+            }
