@@ -7,7 +7,7 @@ media_folder: public/img
 public_folder: img
 collections:
   - name: "main"
-    label: "Hlavní"
+    label: "Hlavní stránka"
     files:
       - label: "Úvodní sekce"
         name: "home"
@@ -28,4 +28,28 @@ collections:
                   name: textItem,
                   widget: "string",
                 },
+            }
+          - { label: "Text tlačítka", name: "buttonText", widget: "string" }
+
+      - name: "services"
+        label: "Seznam služeb"
+        file: "content/services.md"
+        fields:
+          - { label: "Nadpis", name: "title", widget: "string" }
+          - {
+              label: "Seznam služeb",
+              name: "services",
+              allow_add: true,
+              collapsed: false,
+              widget: "list",
+              fields:
+                [
+                  { label: Nadpis, name: title, widget: "string" },
+                  {
+                    label: Krátký horní text,
+                    name: shortText,
+                    widget: "string",
+                  },
+                  { label: Hlavní text, name: mainText, widget: "string" },
+                ],
             }
