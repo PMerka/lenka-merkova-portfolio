@@ -1,14 +1,14 @@
-local_backend: true
 backend:
   name: github
   repo: PMerka/lenka-merkova-portfolio
   branch: master # Branch to update (optional; defaults to master)
-media_folder: public/img
-public_folder: img
+media_folder: public/images
+public_folder: images
 collections:
   - name: "main"
     label: "Hlavní stránka"
     files:
+      #-----
       - label: "Úvodní sekce"
         name: "home"
         file: "content/heroSection.md"
@@ -30,7 +30,7 @@ collections:
                 },
             }
           - { label: "Text tlačítka", name: "buttonText", widget: "string" }
-
+      #-----
       - name: "services"
         label: "Seznam služeb"
         file: "content/services.md"
@@ -50,6 +50,6 @@ collections:
                     name: shortText,
                     widget: "string",
                   },
-                  { label: Hlavní text, name: mainText, widget: "string" },
+                  { label: Hlavní text, name: mainText, widget: "text" },
                 ],
             }

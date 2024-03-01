@@ -3,11 +3,11 @@ import styles from "./ServiceItem.module.css";
 
 export default function ServiceItem({
   title,
-  anotation,
+  annotation,
   mainText,
 }: {
   title: string;
-  anotation: string;
+  annotation: string;
   mainText: string;
 }) {
   return (
@@ -16,7 +16,7 @@ export default function ServiceItem({
         <h3 className={styles.title}>{title}</h3>
       </div>
       <div className={styles.body}>
-        <div className={styles.shortText}>{anotation}</div>
+        <div className={styles.shortText}>{annotation}</div>
 
         <div className={styles.mainText}>{mainText}</div>
       </div>
