@@ -8,7 +8,7 @@ collections:
   - name: "main"
     label: "Hlavní stránka"
     files:
-      #-----
+      #-----Úvodní sekce-----
       - label: "Úvodní sekce"
         name: "home"
         file: "content/heroSection.md"
@@ -30,9 +30,9 @@ collections:
                 },
             }
           - { label: "Text tlačítka", name: "buttonText", widget: "string" }
-      #-----
-      - name: "services"
-        label: "Seznam služeb"
+      #-----Seznam služeb-----
+      - label: "Seznam služeb"
+        name: "services"
         file: "content/services.md"
         fields:
           - { label: "Nadpis", name: "title", widget: "string" }
@@ -50,6 +50,24 @@ collections:
                     name: shortText,
                     widget: "string",
                   },
+                  { label: Hlavní text, name: mainText, widget: "text" },
+                ],
+            }
+      #-----Ceník-----
+      - label: "Ceník"
+        name: "priceList"
+        file: "content/priceList.md"
+        fields:
+          - { label: "Nadpis", name: "title", widget: "string" }
+          - {
+              label: "Odstavce",
+              name: "paragraphs",
+              allow_add: true,
+              collapsed: false,
+              widget: "list",
+              fields:
+                [
+                  { label: Nadpis, name: title, widget: "string" },
                   { label: Hlavní text, name: mainText, widget: "text" },
                 ],
             }

@@ -1,5 +1,6 @@
 import React from "react";
 import styles from "./PriceList.module.css";
+import fm from "/content/priceList.md";
 
 export default function PriceList() {
   return (
@@ -54,6 +55,8 @@ export default function PriceList() {
               měsíce. Otázku termínu každopádně vyřešíme hned na začátku.
             </p>
           </div>
+
+          <div dangerouslySetInnerHTML={{ __html: fm.html }} />
         </div>
       </div>
     </div>
