@@ -12,7 +12,7 @@ export default function HeroSection() {
     buttonText: string;
   };
   return (
-    <div className={styles.heroSection}>
+    <div className={`${styles.heroSection} sectionsShared`}>
       <div className={styles.texts}>
         <div className={styles.textPosition}>
           <h1 className={styles.title}>{title}</h1>

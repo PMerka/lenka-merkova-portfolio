@@ -3,20 +3,28 @@
     scroll-margin-top: 100px;
 }
 
+.pricesExample{
+    margin: 0 2em;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
 .priceListContent{
-    display: flex;
-    gap: 0px;
-    flex-direction: column;
+    column-count: 1;
+    column-gap: 0px;
 }
 
 @media only screen and (min-width: 800px) {
     .priceListContent{
-        display: flex;
-        gap: 40px;
-        flex-direction: row;
+        column-count: 2;
+        column-gap: 50px;
     }
 }
 
-.column{
-    flex: 1
+.article{
+    padding: 1em 0 0;
+}
+
+.article p{
+    margin: 0;
 }

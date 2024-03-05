@@ -4,7 +4,7 @@ import MyWorkItem from "./MyWorkItem/MyWorkItem";
 
 export default function MyWork() {
   return (
-    <div className={styles.myWork} id="ukazky">
+    <div className={`${styles.myWork} sectionsShared`} id="ukazky">
       <h2>Ochutnávka</h2>
       <div className={styles.myWorkGrid}>
         <MyWorkItem

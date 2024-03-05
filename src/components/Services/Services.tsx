@@ -12,7 +12,7 @@ export default function Services() {
     }[];
   };
   return (
-    <div id="co-pro-vas-napisu" className={styles.services}>
+    <div id="co-pro-vas-napisu" className={`${styles.services} sectionsShared`}>
       <h2>{title}</h2>
       <div className={styles.servicesGrid}>
         {services.map((item, index) => (

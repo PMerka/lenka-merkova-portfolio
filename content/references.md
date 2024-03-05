@@ -1,6 +1,6 @@
 ---
 title: Řekli o mně
-paragraphs:
+referenceItems:
   - topText: Lenka umí upoutat  a navnadit
     mainText: '"Lenka má schopnost skvěle zkombinovat hlubokou znalost tématu se
       srozumitelným a čtivým podáním tak, aby její psaní bylo přístupné širokému

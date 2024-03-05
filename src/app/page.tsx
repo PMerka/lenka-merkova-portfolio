@@ -16,7 +16,9 @@ export default function Home() {
       <div className={styles.mainContainer}>
         <HeroSection />
         <Services />
+
         <PriceList />
+
         <WhoAmI />
         <References />
         <MyWork />

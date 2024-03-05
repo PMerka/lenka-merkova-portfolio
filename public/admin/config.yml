@@ -57,6 +57,7 @@ collections:
       - label: "Ceník"
         name: "priceList"
         file: "content/priceList.md"
+
         fields:
           - { label: "Nadpis", name: "title", widget: "string" }
           - {
@@ -69,5 +70,38 @@ collections:
                 [
                   { label: Nadpis, name: title, widget: "string" },
                   { label: Hlavní text, name: mainText, widget: "text" },
+                ],
+            }
+
+      #-----O mně-----
+      - label: "O mně"
+        name: "aboutMe"
+        file: "content/aboutMe.md"
+        fields:
+          - { label: "Nadpis", name: "title", widget: "string" }
+          - {
+              label: 'Hlavní text (používej "heading 3" pro nadpisy)',
+              name: "body",
+              widget: "markdown",
+            }
+
+      #-----References-----
+      - label: "Reference"
+        name: "references"
+        file: "content/references.md"
+        fields:
+          - { label: "Nadpis", name: "title", widget: "string" }
+          - {
+              label: "Reference",
+              name: "referenceItem",
+              allow_add: true,
+              collapsed: false,
+              widget: "list",
+              fields:
+                [
+                  { label: Horní text, name: topText, widget: "string" },
+                  { label: Hlavní text, name: mainText, widget: "text" },
+                  { label: Autor, name: author, widget: "string" },
+                  { label: Autor popis, name: authorInfo, widget: "string" },
                 ],
             }
