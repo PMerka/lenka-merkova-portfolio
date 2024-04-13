@@ -1,0 +1,9 @@
+.copyIcon{
+    margin-left: 10px;
+}
+
+.copyIcon:hover{
+    box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}

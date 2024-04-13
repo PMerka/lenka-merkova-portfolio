@@ -16,9 +16,9 @@ export default function Home() {
       <div className={styles.mainContainer}>
         <HeroSection />
         <Services />
-
-        <PriceList />
-
+        <div className={styles.graphicSection}>
+          <PriceList />
+        </div>
         <WhoAmI />
         <References />
         <MyWork />

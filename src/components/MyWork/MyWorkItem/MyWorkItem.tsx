@@ -1,4 +1,4 @@
-import React, { ReactNode } from "react";
+import React from "react";
 import styles from "./MyWorkItem.module.css";
 
 export default function MyWorkItem({

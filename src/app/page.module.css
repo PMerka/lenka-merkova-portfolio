@@ -6,11 +6,9 @@
 }
 
 .mainContainer{
-  max-width: 1200px;
   min-height: 200vh;
-  margin: 80px auto;
-  padding: 20px;
-  display: flex;
-  flex-direction: column;
-  gap: 100px;
+}
+
+.graphicSection{
+  background-color: rgba(232, 225, 215, 0.5);
 }

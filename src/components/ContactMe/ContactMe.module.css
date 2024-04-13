@@ -7,28 +7,37 @@
     gap: 20px
 }
 
+.imgStyle{
+    padding: 30px;
+    max-width: 200px;
+}
+
 .leftColumn{
     flex: 2;
 }
 
+.rightColumn{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
 .email{
-    font-size: 1.5em;
+    font-size: 1.4em;
     font-weight: 600;
     color: var(--purple-dark);
     padding: 20px 50px;
     display: block;
 }
+@media only screen and (max-width: 800px) {
+    .content {
+        flex-direction: column;
+    }
 
-.copyIcon{
-    margin-left: 20px;
-}
-
-.copyIcon:hover{
-    box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
-    background-color: rgba(0, 0, 0, 0.1);
-    cursor: pointer;
-}
-
-.rightColumn{
-    flex: 1;
+    .email{
+        padding: 20px 0px 20px 30px;
+        font-size: 1em;
+    }
 }

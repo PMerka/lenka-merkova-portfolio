@@ -60,6 +60,19 @@ collections:
 
         fields:
           - { label: "Nadpis", name: "title", widget: "string" }
+          - { label: "Podnadpis cen", name: "title", widget: "string" }
+          - {
+              label: "Seznam cen",
+              name: "prices",
+              allow_add: true,
+              collapsed: false,
+              widget: "list",
+              fields:
+                [
+                  { label: Služba, name: item, widget: "text" },
+                  { label: Cena, name: price, widget: "text" },
+                ],
+            }
           - {
               label: "Odstavce",
               name: "paragraphs",

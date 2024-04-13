@@ -1,6 +1,7 @@
 import React from "react";
 import styles from "./ContactMe.module.css";
 import { FaRegCopy } from "react-icons/fa";
+import CopyEmail from "./CopyEmail/CopyEmail";
 
 export default function ContactMe() {
   return (
@@ -12,7 +13,7 @@ export default function ContactMe() {
             Napište mi na adresu
             <span className={styles.email}>
               lenka.svidrnochova@gmail.com
-              <FaRegCopy className={styles.copyIcon} />
+              <CopyEmail />
             </span>
             a dejte vědět, o jaký text (či texty) byste měli zájem.
           </p>
@@ -36,8 +37,7 @@ export default function ContactMe() {
         </div>
 
         <div className={styles.rightColumn}>
-          SOME TEXT
-          <img src="" alt="" />
+          <img className={styles.imgStyle} src="/images/emailLogo.svg" alt="" />
         </div>
       </div>
     </div>
