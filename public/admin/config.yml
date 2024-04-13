@@ -60,9 +60,9 @@ collections:
 
         fields:
           - { label: "Nadpis", name: "title", widget: "string" }
-          - { label: "Podnadpis cen", name: "title", widget: "string" }
+          - { label: "Podnadpis cen", name: "priceTitle", widget: "string" }
           - {
-              label: "Seznam cen",
+              label: "Seznam orientačních cen",
               name: "prices",
               allow_add: true,
               collapsed: false,
