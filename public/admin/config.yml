@@ -69,8 +69,8 @@ collections:
               widget: "list",
               fields:
                 [
-                  { label: Služba, name: item, widget: "text" },
-                  { label: Cena, name: price, widget: "text" },
+                  { label: Služba, name: item, widget: "string" },
+                  { label: Cena, name: price, widget: "string" },
                 ],
             }
           - {
@@ -82,7 +82,7 @@ collections:
               fields:
                 [
                   { label: Nadpis, name: title, widget: "string" },
-                  { label: Hlavní text, name: mainText, widget: "text" },
+                  { label: Hlavní text, name: text, widget: "text" },
                 ],
             }
 
