@@ -118,3 +118,21 @@ collections:
                   { label: Autor popis, name: authorInfo, widget: "string" },
                 ],
             }
+      #-----MyWork-----
+      - label: "My work"
+        name: "myWork"
+        file: "content/myWork.md"
+        fields:
+          - { label: "Nadpis", name: "title", widget: "string" }
+          - {
+              label: "Ukázky práce",
+              name: "referenceItem",
+              allow_add: true,
+              collapsed: false,
+              widget: "list",
+              fields:
+                [
+                  { label: Nadpis, name: topText, widget: "string" },
+                  { label: Obrázek, name: picture, widget: "image" },
+                ],
+            }
