@@ -13,8 +13,8 @@ export default function MyWork() {
     <div className={`${styles.myWork} sectionsShared`} id="ukazky">
       <h2>{title}</h2>
       <div className={styles.myWorkGrid}>
-        {myWorkItem.map((item) => (
-          <MyWorkItem title={item.name} imgSrc={item.picture} />
+        {myWorkItem.map((item, index) => (
+          <MyWorkItem key={index} title={item.name} imgSrc={item.picture} />
         ))}
       </div>
     </div>
