@@ -17,8 +17,9 @@ export default function References() {
     <div className={`${styles.references} sectionsShared`} id="reference">
       <h2>{title}</h2>
       <div className={styles.content}>
-        {referenceItems.map((referenceItem) => (
+        {referenceItems.map((referenceItem, index) => (
           <ReferenceItem
+            key={index}
             topText={referenceItem.topText}
             mainText={referenceItem.mainText}
             author={referenceItem.author}

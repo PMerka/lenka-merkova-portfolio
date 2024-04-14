@@ -14,7 +14,7 @@ export default function WhoAmI() {
           />
         </div>
         <div className={styles.first}>
-          <img className={styles.img} src="images/profilovka_2.png" alt="" />
+          <img className={styles.img} src="upload/profilovka_2.png" alt="" />
         </div>
       </div>
     </div>

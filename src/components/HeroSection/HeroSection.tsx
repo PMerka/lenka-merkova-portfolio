@@ -30,7 +30,7 @@ export default function HeroSection() {
         <Button> {buttonText} </Button>
       </div>
 
-      <img className={styles.profileImage} src="/images/profileImage.png" />
+      <img className={styles.profileImage} src="/upload/profileImage.png" />
     </div>
   );
 }

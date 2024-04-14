@@ -37,7 +37,7 @@ export default function ContactMe() {
         </div>
 
         <div className={styles.rightColumn}>
-          <img className={styles.imgStyle} src="/images/emailLogo.svg" alt="" />
+          <img className={styles.imgStyle} src="/upload/emailLogo.svg" alt="" />
         </div>
       </div>
     </div>

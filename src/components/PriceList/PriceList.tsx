@@ -35,8 +35,8 @@ export default function PriceList() {
           </div>
         </div>
 
-        {paragraphs.map((paragraph) => (
-          <div className={styles.article}>
+        {paragraphs.map((paragraph, index) => (
+          <div key={index} className={styles.article}>
             <h3>{paragraph.title}</h3>
             <p>{paragraph.text}</p>
           </div>

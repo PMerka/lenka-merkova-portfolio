@@ -21,7 +21,7 @@ export default function Navbar() {
         <div className={styles.navContent}>
           <div>
             <Link href={"#"}>
-              <img src={"/images/logo.png"} alt="" height={80} />
+              <img src={"/upload/logo.png"} alt="" height={80} />
             </Link>
           </div>
           <div className={styles.navLinks}>
