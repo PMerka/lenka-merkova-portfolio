@@ -2,38 +2,30 @@ import React from "react";
 import styles from "./ContactMe.module.css";
 import { FaRegCopy } from "react-icons/fa";
 import CopyEmail from "./CopyEmail/CopyEmail";
+import { html, attributes } from "/content/contact.md";
 
 export default function ContactMe() {
+  const { title, preEmailText, email, postEmailText } = attributes as {
+    title: string;
+    preEmailText: string;
+    email: string;
+    postEmailText: string;
+  };
+
   return (
     <div className={`${styles.contactMe} sectionsShared`} id="kontakt">
-      <h2>Domluvíme se?</h2>
+      <h2>{title}</h2>
       <div className={styles.content}>
         <div className={styles.leftColumn}>
           <p>
-            Napište mi na adresu
+            {preEmailText}
             <span className={styles.email}>
-              lenka.svidrnochova@gmail.com
-              <CopyEmail />
+              {email}
+              <CopyEmail value={email} />
             </span>
-            a dejte vědět, o jaký text (či texty) byste měli zájem.
+            {postEmailText}
           </p>
-
-          <h3>V e-mailu ideálně specifikujte:</h3>
-          <ul>
-            <li>
-              co konkrétně potřebujete (jestli by se jednalo o popisky, webové
-            </li>
-            <li>
-              texty, blogové články, či o něco jiného) téma vašeho projektu =
-              článků, textů (budu ráda, když mi pošlete odkaz na vaše stránky /
-              sociální sítě)
-            </li>
-            <li>zda by šlo o jednorázovou, nebo dlouhodobou spolupráci</li>
-            <li>
-              přibližný rozsah textů deadline (tj. dokdy byste text nejpozději
-              potřebovali) speciální požadavky (pokud nějaké máte)
-            </li>
-          </ul>
+          <div dangerouslySetInnerHTML={{ __html: html }}></div>
         </div>
 
         <div className={styles.rightColumn}>
