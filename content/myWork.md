@@ -1,6 +1,6 @@
 ---
 title: Ochutnávka
-referenceItem:
+myWorkItem:
   - topText: Články pro knihkupectví Martinus
     picture: upload/ukazka_1_logo.png
   - topText: Popisek kategorie pro zlatnictví Eppi

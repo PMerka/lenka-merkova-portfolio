@@ -3,9 +3,10 @@ import styles from "./WhoAmI.module.css";
 import { html, attributes } from "/content/aboutMe.md";
 
 export default function WhoAmI() {
+  const { title } = attributes as { title: string };
   return (
     <div className={`${styles.whoAmI} sectionsShared`} id="o-mne">
-      <h2>Tohle jsem já</h2>
+      <h2>{title}</h2>
       <div className={styles.content}>
         <div className={styles.second}>
           <div

@@ -126,7 +126,7 @@ collections:
           - { label: "Nadpis", name: "title", widget: "string" }
           - {
               label: "Ukázky práce",
-              name: "referenceItem",
+              name: "myWorkItem",
               allow_add: true,
               collapsed: false,
               widget: "list",
