@@ -1,22 +1,23 @@
 import React from "react";
 import styles from "./Footer.module.css";
+import { attributes } from "/content/footer.md";
 
 export default function Footer() {
+  const { leftText, centerText, rightText } = attributes as {
+    leftText: string;
+    centerText: string;
+    rightText: string;
+  };
+
   return (
     <footer className={styles.footer}>
+      {centerText}
       <div className={styles.footerContent}>
-        <div>TĚŠÍM SE NA VÁS!</div>
+        <div dangerouslySetInnerHTML={{ __html: leftText }}></div>
 
         <div className={styles.footerRight}>
-          <div>
-            <div>Mgr. Lenka Měrková</div>
-            <div>Přihlávky 103, Dolní Lhota, 74766</div>
-            <div> IČO: 17907993</div>
-          </div>
-          <div>
-            <div>MÁTE OTÁZKY? NAPIŠTE MI! </div>
-            <div>lenka.svidrnochova@gmail.com</div>
-          </div>
+          <div dangerouslySetInnerHTML={{ __html: centerText }}></div>
+          <div dangerouslySetInnerHTML={{ __html: rightText }}></div>
         </div>
       </div>
     </footer>

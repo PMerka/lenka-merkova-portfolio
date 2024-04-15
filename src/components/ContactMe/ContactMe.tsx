@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "./ContactMe.module.css";
-import { FaRegCopy } from "react-icons/fa";
 import CopyEmail from "./CopyEmail/CopyEmail";
 import { html, attributes } from "/content/contact.md";
 

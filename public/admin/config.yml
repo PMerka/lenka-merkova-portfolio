@@ -169,5 +169,13 @@ collections:
               name: "leftText",
               widget: "markdown",
             }
-          - { label: "Střední sloupec", name: "centerText", widget: "markdown" }
-          - { label: "Pravý sloupec", name: "rightText", widget: "markdown" }
+          - {
+              label: "Střední sloupec zápatí",
+              name: "centerText",
+              widget: "markdown",
+            }
+          - {
+              label: "Pravý sloupec zápatí",
+              name: "rightText",
+              widget: "markdown",
+            }
