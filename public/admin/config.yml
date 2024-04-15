@@ -10,6 +10,7 @@ collections:
     files:
       #-----Úvodní sekce-----
       - label: "Úvodní sekce"
+
         name: "home"
         file: "content/heroSection.md"
         fields:
@@ -158,3 +159,15 @@ collections:
               name: "body",
               widget: "markdown",
             }
+      #-----Footer-----
+      - label: "Zápatí"
+        name: "footer"
+        file: "content/footer.md"
+        fields:
+          - {
+              label: "Levý sloupec zápatí",
+              name: "leftText",
+              widget: "markdown",
+            }
+          - { label: "Střední sloupec", name: "centerText", widget: "markdown" }
+          - { label: "Pravý sloupec", name: "rightText", widget: "markdown" }
