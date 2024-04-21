@@ -54,4 +54,11 @@ referenceItem:
       které uhodí hřebíček na hlavičku."'
     author: Joanna Bajger
     authorInfo: svatební koordinátorka (planujsrdcem.cz)
+  - topText: Komunikace jedna radost
+    mainText: '"S Lenkou spolupracujeme už pár měsíců a musím říct, že je to jedna z
+      nejlepších copywriterek, která pro nás zatím psala. Vždy dodržuje termíny,
+      domluvené zadání, komunikace je jedna radost a hlavně –⁠⁠⁠⁠⁠ její texty
+      jsou kvalitní, čtivé a plné užitečných informací."'
+    author: Hanka Terberová
+    authorInfo: "zakladatelka webu zivotavyziva.cz "
 ---
