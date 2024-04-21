@@ -1,11 +1,11 @@
 ---
-title: Tohle jsem já
+title: Pár slov o mně
 ---
 ### JSEM LENKA A VĚNUJU SE TVORBĚ WEBOVÝCH TEXTŮ.
 
 Copywriting je můj dream job – ráda píšu, hraju si se slovy, ráda se dozvídám nové věci. Navíc mě inspirují lidi, kteří budují vlastní projekty a dávají do nich srdce – no a copywriting mi dovoluje se s nimi spojit. ♥
 
-### CO MĚ KEPSANÍ KVALIFIKUJE?
+### CO MĚ KE PSANÍ KVALIFIKUJE?
 
 * filologické vzdělání na FFUK (magisterské)
 * copywriterský certifikát ([M.arter](https://app.openbadges.me/view/#!/badge?badgeid=553029d5-0687-4237-9843-0efadc6999b0&includeSocials=true))
