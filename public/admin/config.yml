@@ -6,6 +6,8 @@ media_folder: public/upload
 public_folder: upload
 collections:
   - name: "main"
+    editor:
+      preview: false
     label: "Hlavní stránka"
     files:
       #-----Úvodní sekce-----
@@ -164,18 +166,9 @@ collections:
         name: "footer"
         file: "content/footer.md"
         fields:
-          - {
-              label: "Levý sloupec zápatí",
-              name: "leftText",
-              widget: "markdown",
-            }
-          - {
-              label: "Střední sloupec zápatí",
-              name: "centerText",
-              widget: "markdown",
-            }
-          - {
-              label: "Pravý sloupec zápatí",
-              name: "rightText",
-              widget: "markdown",
-            }
+          - { label: "Text vlevo", name: "leftText", widget: "string" }
+          - { label: "Jméno", name: "name", widget: "string" }
+          - { label: "Adresa", name: "address", widget: "string" }
+          - { label: "IČO", name: "ICO", widget: "string" }
+          - { label: "Text vpravo", name: "rightText", widget: "string" }
+          - { label: "email", name: "email", widget: "string" }

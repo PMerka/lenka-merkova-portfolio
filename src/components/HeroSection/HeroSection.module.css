@@ -9,6 +9,7 @@
 
 .texts{
     flex-grow: 1;
+    max-width: 690px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -35,7 +36,7 @@
 }
 
 .intro{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     margin-top: 20px;
 }
 
