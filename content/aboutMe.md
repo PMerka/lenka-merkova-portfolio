@@ -11,7 +11,7 @@ Copywriting je můj dream job – ráda píšu, hraju si se slovy, ráda se dozv
 * copywriterský certifikát ([M.arter](https://app.openbadges.me/view/#!/badge?badgeid=553029d5-0687-4237-9843-0efadc6999b0&includeSocials=true))
 * přes 500 publikovaných textů
 
-Mrkněte na [ochutnávku mých prací](#ukazky) nebo se zastavte na mém osobním blogu o čtení [Budiž kniha](https://www.budizkniha.cz/)!
+Mrkněte na [ochutnávku mých prací](#reference) nebo se zastavte na mém osobním blogu o čtení [Budiž kniha](https://www.budizkniha.cz/)!
 
 ### PRO KTERÁ TÉMATA MÁM SLABOST?
 
