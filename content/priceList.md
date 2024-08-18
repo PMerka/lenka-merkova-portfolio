@@ -10,11 +10,15 @@ prices:
     price: " od 7000 Kč"
 paragraphs:
   - title: Jaká je výsledná cena textu?
-    text: Cena textů vždy závisí na konkrétním zadání a odvíjí se od hodinové sazby
+    text: >
+      Cena textů vždy závisí na konkrétním zadání a odvíjí se od hodinové sazby
       (tj. 500 Kč / hod). Roli obvykle hraje rozsah práce, náročnost tématu,
       dostupnost podkladů a počet úprav. Finální částka pak zahrnuje nejen
       samotné psaní, ale i dobu strávenou studiem podkladů a online konzultacemi
       (s výjimkou krátkého orientačního hovoru na začátku spolupráce).
+
+
+      Orientační ceny:
   - title: Jak vypadá spolupráce?
     text: Až ke mně do schránky doputuje váš e-mail, domluvíme si krátké (maximálně
       čtvrthodinové) online setkání, během kterého se vás doptám na hrubou
