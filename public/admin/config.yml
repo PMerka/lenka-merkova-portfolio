@@ -166,9 +166,5 @@ collections:
         name: "footer"
         file: "content/footer.md"
         fields:
-          - { label: "Text vlevo", name: "leftText", widget: "string" }
-          - { label: "Jméno", name: "name", widget: "string" }
-          - { label: "Adresa", name: "address", widget: "string" }
-          - { label: "IČO", name: "ICO", widget: "string" }
-          - { label: "Text vpravo", name: "rightText", widget: "string" }
-          - { label: "email", name: "email", widget: "string" }
+          - { label: "Text vlevo", name: "leftText", widget: "markdown" }
+          - { label: "Text vpravo", name: "rightText", widget: "markdown" }

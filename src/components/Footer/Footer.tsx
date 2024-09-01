@@ -11,9 +11,8 @@ export default function Footer() {
 
   return (
     <footer className={styles.footer}>
-      {centerText}
       <div className={styles.footerContent}>
-        <div dangerouslySetInnerHTML={{ __html: leftText }}></div>
+        <div dangerouslySetInnerHTML={{ __html: leftText }} />
 
         <div className={styles.footerRight}>
           <div dangerouslySetInnerHTML={{ __html: centerText }}></div>
