@@ -1,12 +1,12 @@
 ---
 leftText: TĚŠÍM SE NA VÁS
-1stRightText: |-
+RightText1st: |-
   **Mgr. Lenka Měrková**
 
   Přihlávky 103, Dolní Lhota, 74766
 
   IČO: 17907993
-2ndRightText: |-
+RightText2nd: |-
   MÁTE OTÁZKY? NAPIŠTE MI!
 
   lenka.svidrnochova@gmail.com

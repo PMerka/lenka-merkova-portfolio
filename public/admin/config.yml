@@ -166,5 +166,14 @@ collections:
         name: "footer"
         file: "content/footer.md"
         fields:
-          - { label: "Text vlevo", name: "leftText", widget: "markdown" }
-          - { label: "Text vpravo", name: "rightText", widget: "markdown" }
+          - { label: "Text vlevo", name: "leftText", widget: "string" }
+          - {
+              label: "1. Text vpravo",
+              name: "RightText1st",
+              widget: "markdown",
+            }
+          - {
+              label: "2. Text vpravo",
+              name: "RightText2nd",
+              widget: "markdown",
+            }
