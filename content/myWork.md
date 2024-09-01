@@ -9,4 +9,6 @@ myWorkItem:
     picture: upload/ukazka_3_logo.png
   - topText: Článek pro tištěný magazín Nový prostor
     picture: upload/ukazka_4_logo.png
+  - picture: upload/ukazka_5_logo.png
+    topText: Blogový článek pro svatební blog
 ---
