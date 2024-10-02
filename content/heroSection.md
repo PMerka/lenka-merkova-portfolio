@@ -1,10 +1,7 @@
 ---
-title: SLOVA MAJÍ ENERGII
-subtitle: VYUŽIJME TOHO
-shortText: TEXTY, KTERÉ VAŠÍ ZNAČCE PROPŮJČÍ TY SPRÁVNÉ VIBRACE
-introList:
-  - Máte super vizi, ale nedokážete ji promítnout do slov?
-  - Hledáte někoho, kdo si s vašimi texty pohraje?
-  - empatický přístup
+title: TEXTY, KTERÉ CHYTÍ A NEPUSTÍ
+subtitle: :)
+shortText: POTŘEBUJETE DO VAŠICH TEXTŮ DOSTAT EMOCE?
+introList: []
 buttonText: NECHTE TO NA MNĚ
 ---
