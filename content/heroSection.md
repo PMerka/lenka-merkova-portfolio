@@ -1,6 +1,6 @@
 ---
-title: TEXTY, KTERÉ CHYTÍ A NEPUSTÍ
-subtitle: :)
+title: TEXTY, KTERÉ CHYTÍ...
+subtitle: ... A NEPUSTÍ
 shortText: POTŘEBUJETE DO VAŠICH TEXTŮ DOSTAT EMOCE?
 introList: []
 buttonText: NECHTE TO NA MNĚ
