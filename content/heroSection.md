@@ -1,7 +1,7 @@
 ---
-title: Texty, které chytí a nepustí
+title: TEXTY, KTERÉ CHYTÍ A NEPUSTÍ
 subtitle: :)
-shortText: POTŘEBUJETE DO VAŠICH TEXTŮ DOSTAT EMOCE?
+shortText: CHCETE PŘESVĚDČIVÉ TEXTY, KTERÉ CHYTÍ A NEPUSTÍ?
 introList: []
 buttonText: NECHTE TO NA MNĚ
 ---
