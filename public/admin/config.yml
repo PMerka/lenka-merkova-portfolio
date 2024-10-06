@@ -8,8 +8,8 @@ media_folder: public/upload
 public_folder: upload
 collections:
   - name: "main"
-    #editor:
-      #preview: false
+    editor:
+      preview: false
     label: "Hlavní stránka"
     files:
       #-----Úvodní sekce-----
