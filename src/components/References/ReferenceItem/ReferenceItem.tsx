@@ -7,14 +7,16 @@ export default function ReferenceItem({
   mainText,
   author,
   authorDescription,
+  refItem
 }: {
   topText?: string;
   mainText?: string;
   author?: string;
   authorDescription?: string;
+  refItem?: (el: any) => any;
 }) {
   return (
-    <div className={styles.referenceItem}>
+    <div className={styles.referenceItem} ref={refItem}>
       <div className={styles.topText}>
         <BiSolidQuoteAltLeft className={styles.quoteMark} />
         {topText}

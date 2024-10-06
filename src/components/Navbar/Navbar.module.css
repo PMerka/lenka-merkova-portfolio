@@ -3,7 +3,7 @@
     top: -1px;
     background-color: #e8e1d7;
     width: 100%;
-    z-index: 1;
+    z-index: 1001; /*react carousel has z-index: 1000 for button */
 }
 
 .navContent{

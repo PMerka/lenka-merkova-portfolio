@@ -3,7 +3,44 @@
 }
 
 .content{
-    display: grid;
+    display: flex;
     grid-template-columns: repeat(auto-fill,minmax(300px, 1fr));
     gap: 1em;
+}
+
+.contentCarousel{
+    display: flex;
+    gap: 1em;
+    overflow-x: scroll;
+    padding: 2em;
+}
+
+.contentCarousel::-webkit-scrollbar {
+    display: none;
+}
+
+.carousel{
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+
+.buttonLeft{
+    left: 0;
+    top: 50%;
+    border: none;
+    min-height: 40px;
+    min-width: 40px;
+    background-color: var(--main-bg-color-dark);
+    border-radius: 20px;
+}
+
+.buttonRight{
+    right: 0;
+    top: 50%;
+    border: none;
+    min-height: 40px;
+    min-width: 40px;
+    background-color: var(--main-bg-color-dark);
+    border-radius: 20px;
 }

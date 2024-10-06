@@ -1,7 +1,9 @@
 ---
 title: Texty, které chytí a nepustí
-subtitle: :)
+subtitle: 
 shortText: POTŘEBUJETE DO VAŠICH TEXTŮ DOSTAT EMOCE?
-introList: []
+introList:
+  - první položka
+  - druhá položka
 buttonText: NECHTE TO NA MNĚ
 ---
