@@ -12,7 +12,7 @@ myWorkItem:
     link: https://drive.google.com/drive/folders/13SG0e-XaF34jAkvTAD8qtOGEO6oSqb2N
   - topText: Článek pro tištěný magazín Nový prostor
     picture: upload/ukazka_4_logo.png
-    link: https://drive.google.com/drive/folders/13SG0e-XaF34jAkvTAD8qtOGEO6oSqb2N
+    link: https://drive.google.com/file/d/1QM6RLbRBcJxRw_rIDF_Huw92bijZtV95/view?usp=sharing
   - picture: upload/ukazka_5_logo.png
     topText: Blogový článek pro svatební blog
     link: https://drive.google.com/drive/folders/13SG0e-XaF34jAkvTAD8qtOGEO6oSqb2N
