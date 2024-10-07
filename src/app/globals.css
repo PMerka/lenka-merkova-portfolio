@@ -18,11 +18,19 @@ html{
 body { 
   background-color: transparent;
   margin: 0;
-  
+  font-family: var(--font-arimo);
 }
 
 h1{
   font-size: 3rem;
+}
+
+h2{
+  font-family: var(--font-cinzel);
+}
+
+h3{
+  font-family: var(--font-cinzel);
 }
 
 a{

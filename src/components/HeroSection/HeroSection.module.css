@@ -22,12 +22,14 @@
 
 .title{
     padding-right: 1em;
+    font-family: var(--font-cinzel);
 }
 
 .subTitle{
     right: 0;
     text-align: right;
     font-size: 2em;
+    font-family: var(--font-cinzel);
 }
 
 .profileImage{
