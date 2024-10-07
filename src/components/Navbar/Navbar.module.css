@@ -20,7 +20,9 @@
 .navLinks{
     display: flex;
     gap: 1em;
-    text-transform: uppercase;
+    font-size: larger;
+    font-weight: 500;
+    font-family: var(--font-cinzel);
 }
 
 
@@ -28,7 +30,7 @@
     display: flex;
     gap: 1em;
     flex-direction: column;
-    text-transform: uppercase;
+    font-family: var(--font-cinzel);
     text-align: right;
     padding: 20px;
     box-shadow: 0px 15px 15px rgba(128, 128, 128, 0.3);
