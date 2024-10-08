@@ -1,6 +1,6 @@
 ---
-title: Texty, které chytí a nepustí
-subtitle: 
+title: texty, které chytí a nepustí
+subtitle: "  "
 shortText: POTŘEBUJETE DO VAŠICH TEXTŮ DOSTAT EMOCE?
 introList:
   - první položka
