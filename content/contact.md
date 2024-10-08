@@ -1,5 +1,5 @@
 ---
-title: Domluvíme se?
+title: domluvíme se?
 preEmailText: Napište mi na adresu
 email: lenka.svidrnochova@gmail.com
 postEmailText: a dejte vědět, o jaký text (či texty) byste měli zájem.

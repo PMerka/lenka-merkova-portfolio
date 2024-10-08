@@ -1,5 +1,5 @@
 ---
-title: Cena
+title: cena
 priceTitle: Hodinová sazba 500 Kč/hod
 prices:
   - item: Blogový článek (standard, 500 slov)

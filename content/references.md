@@ -1,5 +1,5 @@
 ---
-title: Řekli o mně
+title: řekli o mně
 referenceItems:
   - topText: Lenka umí upoutat  a navnadit
     mainText: '"Lenka má schopnost skvěle zkombinovat hlubokou znalost tématu se
