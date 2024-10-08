@@ -5,6 +5,11 @@
     border-radius: 5px ;
     display: flex;
     flex-direction: column;
+    background: var(--main-bg-color);
+}
+
+.myWorkItem:hover{
+    filter: brightness(1.05);
 }
 
 .titleSection{

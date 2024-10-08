@@ -27,9 +27,11 @@ h1{
 
 h2{
   font-family: var(--font-cinzel);
+  margin-bottom: 2em;
 }
 
-h3{
+h4{
+  font-size: 1.2em;
   font-family: var(--font-cinzel);
 }
 
@@ -44,6 +46,6 @@ a{
 
 .sectionsShared{
   max-width: 1200px;
-  margin: 50px auto;
-  padding: 50px 20px;
+  margin: 40px auto;
+  padding: 40px 20px;
 }
