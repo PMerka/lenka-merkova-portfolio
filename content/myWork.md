@@ -1,5 +1,5 @@
 ---
-title: Ochutnávka
+title: ochutnávka
 myWorkItem:
   - topText: Články pro knihkupectví Martinus
     picture: upload/ukazka_1_logo.png
