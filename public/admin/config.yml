@@ -1,7 +1,7 @@
-#local_backend: true
+local_backend: true
 backend:
-  #name: git-gateway
-  name: github
+  name: git-gateway
+  #name: github
   repo: PMerka/lenka-merkova-portfolio
   branch: master # Branch to update (optional; defaults to master)
 media_folder: public/upload
@@ -61,21 +61,18 @@ collections:
       #-----Ceník-----
       - label: "Ceník"
         name: "priceList"
-        file: "content/priceList.md"
+        file: "content/priceList.json"
 
         fields:
           - { label: "Nadpis", name: "title", widget: "string" }
-          - { label: "Podnadpis cen", name: "priceTitle", widget: "string" }
           - {
-              label: "Seznam orientačních cen",
-              name: "prices",
-              allow_add: true,
-              collapsed: false,
-              widget: "list",
+              label: "Cena",
+              name: "priceBox",
+              widget: "object",
               fields:
                 [
-                  { label: Služba, name: item, widget: "string" },
-                  { label: Cena, name: price, widget: "string" },
+                  { label: Nadpis cany, name: priceLabel, widget: "string" },
+                  { label: Cena, name: price, widget: "text" },
                 ],
             }
           - {

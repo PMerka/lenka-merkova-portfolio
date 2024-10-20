@@ -28,7 +28,8 @@ h1{
 
 h2{
   font-family: var(--font-cinzel);
-  margin-bottom: 2em;
+  font-size: 2rem;
+  margin-bottom: 1.5em;
 }
 
 h3{
