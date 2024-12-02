@@ -1,5 +1,5 @@
 ---
-title: poutavé texty
+title: texty, které podpoří váš nápad
 subtitle: "  které podpoří váš nápad"
 shortText: POTŘEBUJETE DO VAŠICH TEXTŮ DOSTAT EMOCE?
 introList:
