@@ -1,6 +1,6 @@
 ---
 title: texty, které podpoří váš nápad
-subtitle: "  které podpoří váš nápad"
+subtitle: "   "
 shortText: POTŘEBUJETE DO VAŠICH TEXTŮ DOSTAT EMOCE?
 introList:
   - první položka
