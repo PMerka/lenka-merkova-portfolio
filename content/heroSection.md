@@ -1,9 +1,9 @@
 ---
-title: texty, které podpoří váš nápad
+title: podpořte své nápady trefnými texty
 subtitle: "   "
-shortText: POTŘEBUJETE DO VAŠICH TEXTŮ DOSTAT EMOCE?
+shortText: Sázíte prompty do AI, ale pořád to není ono...?
 introList:
-  - první položka
+  - Sázíte prompty do AI, ale pořád to není ono...?
   - druhá položka
 buttonText: NECHTE TO NA MNĚ
 ---
