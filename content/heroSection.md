@@ -1,5 +1,5 @@
 ---
-title: podtrhněte své nápady
+title: podpořte své nápady
 subtitle: trefnými texty
 shortText: "   "
 introList:
