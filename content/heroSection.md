@@ -1,6 +1,6 @@
 ---
-title: podpořte své nápady
-subtitle: trefnými texty
+title: Texty, které podtrhnou vaše nápady
+subtitle: ...
 shortText: "   "
 introList:
   - Sázíte prompty do AI, ale pořád to není ono...?
