@@ -1,6 +1,6 @@
 ---
-title: podpořím vaše nápady parádními texty
-subtitle: najděme společně slova, která sedí!
+title: podtrhnu vaše nápady
+subtitle: ...parádními texty!
 shortText: "   "
 introList:
   - Je psaní textů Achillovou patou vašeho podnikání?
