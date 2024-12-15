@@ -4,6 +4,9 @@ preEmailText: Napište mi na adresu
 email: lenka.svidrnochova@gmail.com
 postEmailText: a dejte vědět, o jaký text (či texty) byste měli zájem.
 ---
+##### 
+Napište mi na adresu lenka.svidrnochova@gmail.com a dejte vědět, o jaký text (či texty) byste měli zájem.
+
 ##### V e-mailu specifikujte:
 
 * **O jaké texty máte zájem** a jaký by byl jejich **přibližný rozsah**.
