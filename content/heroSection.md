@@ -1,9 +1,10 @@
 ---
-title: texty, které chytí a nepustí
-subtitle: "  "
-shortText: POTŘEBUJETE DO VAŠICH TEXTŮ DOSTAT EMOCE?
+title: podtrhnu vaše nápady
+subtitle: ...parádními texty!
+shortText: "   "
 introList:
-  - první položka
-  - druhá položka
+  - Je psaní textů Achillovou patou vašeho podnikání?
+  - Zjišťujete, že umělá inteligence na váš obsah nestačí?
+  - Chcete do textů dostat více emocí?
 buttonText: NECHTE TO NA MNĚ
 ---
