@@ -16,14 +16,6 @@ export default function ContactMe() {
       <h2>{title}</h2>
       <div className={styles.content}>
         <div className={styles.leftColumn}>
-          <p>
-            {preEmailText}
-            <span className={styles.email}>
-              {email}
-              <CopyEmail value={email} />
-            </span>
-            {postEmailText}
-          </p>
           <div dangerouslySetInnerHTML={{ __html: html }}></div>
         </div>
 
