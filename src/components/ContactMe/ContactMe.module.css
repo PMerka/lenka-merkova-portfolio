@@ -1,43 +1,60 @@
-.contactMe{
-    scroll-margin-top: 100px;
+.contactMe {
+  scroll-margin-top: 100px;
 }
 
-.content{
-    display: flex;
-    gap: 20px
+.content {
+  display: flex;
+  gap: 20px;
 }
 
-.imgStyle{
-    padding: 30px;
-    max-width: 200px;
+.imgStyle {
+  padding: 30px;
+  max-width: 200px;
 }
 
-.leftColumn{
-    flex: 2;
+.leftColumn {
+  flex: 2;
 }
 
-.rightColumn{
-    flex: 1;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.leftColumn li {
+  list-style-type: none; /* Remove default bullets */
+  padding-left: 0; /* Optional: adjust padding */
 }
 
+.leftColumn li::before {
+  content: "🖂"; /* Set the image */
+  color: var(--purple-dark);
+  font-weight: bold;
+  font-size: 1.5em;
+  display: inline-block;
+  width: 20px; /* Set width */
+  height: 20px; /* Set height */
+  margin-right: 1em; /* Add spacing between image and text */
+  padding-top: 0.2em;
+}
 
-.email{
-    font-size: 1.4em;
-    font-weight: 600;
-    color: var(--purple-dark);
-    padding: 20px 50px;
-    display: block;
+.rightColumn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.email {
+  font-size: 1.4em;
+  font-weight: 600;
+  color: var(--purple-dark);
+  padding: 20px 50px;
+  display: block;
+  text-wrap: nowrap;
 }
 @media only screen and (max-width: 800px) {
-    .content {
-        flex-direction: column;
-    }
+  .content {
+    flex-direction: column;
+  }
 
-    .email{
-        padding: 20px 0px 20px 30px;
-        font-size: 1em;
-    }
+  .email {
+    padding: 20px 0px 20px 30px;
+    font-size: 1em;
+  }
 }
