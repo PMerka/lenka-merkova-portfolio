@@ -146,17 +146,6 @@ collections:
         fields:
           - { label: "Nadpis", name: "title", widget: "string" }
           - {
-              label: "Text před emailem",
-              name: "preEmailText",
-              widget: "string",
-            }
-          - { label: "email", name: "email", widget: "string" }
-          - {
-              label: "Text za emailem",
-              name: "postEmailText",
-              widget: "string",
-            }
-          - {
               label: 'Hlavní text (používej "heading 3" pro nadpisy)',
               name: "body",
               widget: "markdown",

@@ -18,7 +18,7 @@ export default function HeroSection() {
           <h1 className={styles.title}>{title}</h1>
           <div className={styles.subTitle}>{subtitle}</div>
         </div>
-
+        <Button> {buttonText} </Button>{" "}
         <div className={styles.intro}>
           {shortText}
           <ul className={styles.list}>
@@ -27,7 +27,6 @@ export default function HeroSection() {
             ))}
           </ul>
         </div>
-        <Button> {buttonText} </Button>
       </div>
 
       <img className={styles.profileImage} src="/upload/profileImage.png" />

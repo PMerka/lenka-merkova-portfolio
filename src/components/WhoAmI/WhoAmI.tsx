@@ -8,14 +8,14 @@ export default function WhoAmI() {
     <div className={`${styles.whoAmI} sectionsShared`} id="o-mne">
       <h2>{title}</h2>
       <div className={styles.content}>
+        <div className={styles.first}>
+          <img className={styles.img} src="upload/profilovka_2.png" alt="" />
+        </div>
         <div className={styles.second}>
           <div
             className={styles.mdContent}
             dangerouslySetInnerHTML={{ __html: html }}
           />
-        </div>
-        <div className={styles.first}>
-          <img className={styles.img} src="upload/profilovka_2.png" alt="" />
         </div>
       </div>
     </div>
