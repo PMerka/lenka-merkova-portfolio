@@ -1,63 +1,66 @@
-.navbar{
-    position: fixed;
-    top: -1px;
-    background-color: #e8e1d7;
-    width: 100%;
-    z-index: 1001; /*react carousel has z-index: 1000 for button */
+.navbar {
+  position: fixed;
+  top: -1px;
+  background-color: #e8e1d7;
+  width: 100%;
+  z-index: 1001; /*react carousel has z-index: 1000 for button */
 }
 
-.navContent{
-    max-width: 1200px;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 100%;
-    min-height: 3em;
-    padding: 0 20px;
+.navContent {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  min-height: 3em;
+  padding: 0 20px;
 }
 
-.navLinks{
-    display: flex;
-    gap: 1em;
-    font-size: larger;
-    font-weight: 500;
-    font-family: var(--font-cinzel);
+.navContent a {
+  color: inherit;
 }
 
-
-.navLinksMobile{
-    display: flex;
-    gap: 1em;
-    flex-direction: column;
-    font-family: var(--font-cinzel);
-    text-align: right;
-    padding: 20px;
-    box-shadow: 0px 15px 15px rgba(128, 128, 128, 0.3);
+.navLinks {
+  display: flex;
+  gap: 1em;
+  font-size: larger;
+  font-weight: 500;
+  font-family: var(--font-cinzel);
 }
 
-.mobileIcon{
-    position: relative;
-    display: none;
+.navLinksMobile {
+  display: flex;
+  gap: 1em;
+  flex-direction: column;
+  font-family: var(--font-cinzel);
+  text-align: right;
+  padding: 20px;
+  box-shadow: 0px 15px 15px rgba(128, 128, 128, 0.3);
+}
+
+.mobileIcon {
+  position: relative;
+  display: none;
 }
 
 @media only screen and (max-width: 800px) {
-    .navLinks {
-        display: none
-    }
+  .navLinks {
+    display: none;
+  }
 
-    .mobileIcon{
-        display: block;
-        width: 3em;
-        height: 3em;
-        fill: rgb(34, 34, 34);
-    }
+  .mobileIcon {
+    display: block;
+    width: 3em;
+    height: 3em;
+    fill: rgb(34, 34, 34);
+  }
 }
 
-.mobileIcon:hover{
-    fill: var(--purple-dark)
+.mobileIcon:hover {
+  fill: var(--purple-dark);
 }
 
-.mobileIcon:active{
-    fill: var(--purple-dark)
+.mobileIcon:active {
+  fill: var(--purple-dark);
 }

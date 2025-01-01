@@ -39,7 +39,8 @@ h3 {
 
 a {
   text-decoration: none;
-  color: inherit;
+  color: var(--purple-dark);
+  font-weight: bolder;
 }
 
 @media only screen and (max-width: 1240px) {
