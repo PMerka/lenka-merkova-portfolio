@@ -2,10 +2,8 @@
   "title": "Texty, které chytí a nepustí",
   "subtitle": "lorem asadasd nějaký text který je fakt dlouhý a mohl by přetekat",
   "shortText": "TEST",
-  "introList": [
-    "sdsdf"
-  ],
+  "introList": ["sdsdf"],
   "buttonText": "NECHTE TO NA MNĚ",
   "topSection": "# Texty, které podtrhnou váš nápad!\n\n## Máte skvělý projekt, ale s texty už je to slabší?",
-  "belowSection": "\n\n* Profesionální texty \n* Přátelská komunikace \n* Maximální nacítění \n* Chuť do práce"
+  "belowSection": "* Profesionální texty dlouhý text velmi mega moc\n* Přátelská komunikace \n* Maximální nacítění \n* Chuť do práce"
 }

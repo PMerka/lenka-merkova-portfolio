@@ -16,25 +16,19 @@ collections:
       - label: "Úvodní sekce"
 
         name: "home"
-        file: "content/heroSection.md"
+        file: "content/heroSection.json"
         fields:
-          - { label: "Hlavní nadpis", name: "title", widget: "string" }
-          - { label: "Podnadpis", name: "subtitle", widget: "string" }
-          - { label: "Krátký text", name: "shortText", widget: "string" }
           - {
-              label: "Úvodní seznam",
-              name: "introList",
-              allow_add: true,
-              collapsed: false,
-              widget: "list",
-              field:
-                {
-                  label: Položka úvodního seznamu,
-                  name: textItem,
-                  widget: "string",
-                },
+              label: "Sekce nad tlačítkem",
+              name: "topSection",
+              widget: "markdown",
             }
           - { label: "Text tlačítka", name: "buttonText", widget: "string" }
+          - {
+              label: "Sekce pod tlačítkem",
+              name: "belowSection",
+              widget: "markdown",
+            }
       #-----Seznam služeb-----
       - label: "Seznam služeb"
         name: "services"

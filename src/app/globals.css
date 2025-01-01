@@ -5,48 +5,50 @@
     "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro",
     "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
 
-  --main-bg-color: #F1EFEF;
-  --purple-dark: #490b20;
+  --main-bg-color: #f1efef;
+  --purple-dark: #620e2a;
   --main-bg-color-dark: #d3cdcd;
 }
 
-html{
+html {
   scroll-behavior: smooth !important;
   min-width: 320px;
 }
 
-body { 
+body {
   background-color: transparent;
   margin: 0;
   font-family: var(--font-arimo);
   color: #322818;
 }
 
-h1{
-  font-size: 3rem;
+h1 {
+  font-size: 2.5rem;
 }
 
-h2{
+h2 {
   font-family: var(--font-cinzel);
   font-size: 2rem;
   margin-bottom: 1.5em;
 }
 
-h3{
+h3 {
   font-size: 1.2em;
   font-family: var(--font-cinzel);
 }
 
-a{
-  text-decoration: none;   
+a {
+  text-decoration: none;
   color: inherit;
 }
 
 @media only screen and (max-width: 1240px) {
-  h1 {font-size: 2rem }
+  h1 {
+    font-size: 2rem;
+  }
 }
 
-.sectionsShared{
+.sectionsShared {
   max-width: 1200px;
   margin: 40px auto;
   padding: 40px 20px;

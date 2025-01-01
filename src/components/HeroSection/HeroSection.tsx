@@ -2,6 +2,8 @@ import React from "react";
 import styles from "./HeroSection.module.css";
 import Button from "../Button/Button";
 import { attributes } from "/content/heroSection.md";
+import content from "/content/heroSection.json";
+import ReactMarkdown from "react-markdown";
 
 export default function HeroSection() {
   const { title, subtitle, shortText, introList, buttonText } = attributes as {
@@ -14,18 +16,12 @@ export default function HeroSection() {
   return (
     <div className={`${styles.heroSection} sectionsShared`}>
       <div className={styles.texts}>
-        <div className={styles.textPosition}>
-          <h1 className={styles.title}>{title}</h1>
-          <div className={styles.subTitle}>{subtitle}</div>
+        <div className={styles.topSection}>
+          <ReactMarkdown>{content.topSection}</ReactMarkdown>
         </div>
-        <Button> {buttonText} </Button>{" "}
-        <div className={styles.intro}>
-          {shortText}
-          <ul className={styles.list}>
-            {introList.map((item, index) => (
-              <li key={index}>{item}</li>
-            ))}
-          </ul>
+        <Button> {buttonText} </Button>
+        <div className={styles.belowSection}>
+          <ReactMarkdown>{content.belowSection}</ReactMarkdown>
         </div>
       </div>
 
