@@ -3,7 +3,7 @@ title: domluvíme se?
 ---
 Napište mi na adresu **lenka.svidrnochova@gmail.com** a dejte vědět, co přesně potřebujete.
 
-V e-mailu specifikujte:
+#### V e-mailu specifikujte:
 
 * **O jaké texty máte zájem** a jaký by byl jejich **přibližný rozsah**.
 * **Téma vašeho projektu** + odkaz na vaše stránky / sociální sítě.
