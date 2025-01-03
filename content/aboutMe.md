@@ -16,6 +16,6 @@ Mrkněte na [ochutnávku mých prací](#reference) nebo se zastavte na mém osob
 
 ### PRO KTERÁ TÉMATA MÁM SLABOST?
 
-Pro všechno, co vytváří cozy atmosféru (*knížky, čaje, kafe, doplňky do bytu…*), pro papírenské výrobky (*organizéry, zápisníky…*), osobní rozvoj, vzdělávání, chatičky v horách, zážitkové projekty… Jo! A fandím úzce specializovaným značkám. ♥ 
+Pro všechno, co vytváří pohodovou atmosféru (*knížky, čaje, kafe, doplňky do bytu…*), pro papírenské výrobky (*organizéry, zápisníky…*), osobní rozvoj, vzdělávání, chatičky v horách, zážitkové projekty… Jo! A fandím úzce specializovaným značkám. ♥ 
 
 Určitě se ale s radostí ponořím i do jiných témat a světů. Dejte vědět, jak vypadá ten VÁŠ!
