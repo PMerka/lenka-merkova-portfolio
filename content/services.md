@@ -1,5 +1,5 @@
 ---
-title: napíšu vám...
+title: napíšu pro vás...
 services:
   - title: BLOGOVÉ ČLÁNKY
     shortText: Nechte proto články na mně a věnujte se tomu, v čem jste nejlepší. ♥
