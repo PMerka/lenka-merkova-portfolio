@@ -5,7 +5,7 @@ title: tohle jsem já
 
 Copywriting je můj dream job – ráda píšu, pohrávám si se slovy a jejich významy, nořím se do hlubin psychologie (nejen té marketingové), ráda se dozvídám nové věci. Navíc mě inspirují lidi, kteří se nebojí budovat vlastní projekty a dávají do nich srdce. ♥
 
-### PÁR ČÍSEL, SE KTERÝMI SE MOHU POCHLUBIT
+### MÁM ZA SEBOU
 
 * filologické vzdělání na FFUK (Mgr.)
 * copywriterský certifikát [M.arter](https://app.openbadges.me/view/#!/badge?badgeid=553029d5-0687-4237-9843-0efadc6999b0&includeSocials=true)
