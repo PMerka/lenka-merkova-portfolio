@@ -18,9 +18,9 @@ export default function Services() {
         {services.map((item, index) => (
           <ServiceItem
             key={index}
-            title={item.title}
-            annotation={item.shortText}
-            mainText={item.mainText}
+            title={item?.title}
+            annotation={item?.shortText}
+            mainText={item?.mainText}
           />
         ))}
       </div>

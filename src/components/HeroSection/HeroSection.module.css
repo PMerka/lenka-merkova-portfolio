@@ -19,6 +19,15 @@
 .topSection {
   margin-top: 80px;
   text-align: center;
+  margin-bottom: 20px;
+}
+
+.topSection h1 {
+  margin-bottom: 1em;
+}
+
+.topSection h3 {
+  margin: 0.4em;
 }
 
 .topSection h1 {
@@ -44,7 +53,7 @@
 }
 
 .belowSection li::marker {
-  content: "🗹  "; /* Set the image */
+  content: "🗸  "; /* Set the image */
   line-height: 2.1;
   color: var(--purple-dark);
   font-weight: bold;

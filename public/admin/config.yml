@@ -45,11 +45,17 @@ collections:
                 [
                   { label: Nadpis, name: title, widget: "string" },
                   {
-                    label: Krátký horní text,
+                    label: Krátký text,
                     name: shortText,
                     widget: "string",
+                    required: false,
                   },
-                  { label: Hlavní text, name: mainText, widget: "text" },
+                  {
+                    label: Hlavní text,
+                    name: mainText,
+                    widget: "text",
+                    required: false,
+                  },
                 ],
             }
       #-----Ceník-----

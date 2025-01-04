@@ -25,7 +25,7 @@
   display: flex;
   gap: 1em;
   font-size: larger;
-  font-weight: 500;
+  font-weight: 300;
   font-family: var(--font-cinzel);
 }
 

@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
-import { Inter, Arimo, Cinzel } from "next/font/google";
+import { Inter, Arimo, Cinzel, IBM_Plex_Sans } from "next/font/google";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
-const cinzel_init = Cinzel({
+const cinzel_init = IBM_Plex_Sans({
   subsets: ["latin"],
-  weight: ["400", "500", "700"],
+  weight: ["200", "300", "400", "500", "700"],
   variable: "--font-cinzel",
 });
 
