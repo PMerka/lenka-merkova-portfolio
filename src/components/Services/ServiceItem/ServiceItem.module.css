@@ -24,7 +24,7 @@
 
 .header {
   padding: 10px 0;
-  background-color: #490b20;
+  background-color: var(--purple-dark);
   box-sizing: border-box;
   color: var(--main-bg-color);
 }
