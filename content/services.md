@@ -2,7 +2,7 @@
 title: napíšu pro vás...
 services:
   - title: BLOGOVÉ ČLÁNKY
-    shortText: Nechte proto články na mně a věnujte se tomu, v čem jste nejlepší. ♥
+    shortText: ""
     mainText: Blogové články jsou v podnikání skvělým nástrojem. Někdy to ale není
       snadné každý projekt vyžaduje čas a na psaní blogu leckdy nezbývá prostor.
   - title: TEXTY NA WEB
