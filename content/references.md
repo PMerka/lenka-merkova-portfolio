@@ -1,14 +1,14 @@
 ---
-title: řekli o mně
+title: Řekli o mně
 referenceItems:
-  - topText: lenka umí upoutat  a navnadit
+  - topText: Lenka umí upoutat  a navnadit
     mainText: Lenka má schopnost skvěle zkombinovat hlubokou znalost tématu se
       srozumitelným a čtivým podáním tak, aby její psaní bylo přístupné širokému
       spektru čtenářů a čtenářek. Umí jasně zformulovat myšlenku, upoutat i
       navnadit, navíc se na ni můžeme v každém ohledu stoprocentně spolehnout.
     author: Janča Hartlová
     authorInfo: obsahová specialistka online knihkupectví Martinus
-  - topText: empatický přístup a barvité texty
+  - topText: Empatický přístup a barvité texty
     mainText: Lenka je skvělou copywriterkou, se kterou je radost spolupracovat. Nad
       obsahem pečlivě přemýšlí, umí klást dobré otázky, díky kterým pak vytvoří
       originální a barvitý text. Ví, kde a jak použít relevantní klíčová slova a
@@ -16,7 +16,7 @@ referenceItems:
       zpětné vazbě a ochota jsou jen příjemnou třešničkou celé spolupráce. :)
     author: Káťa Hoferková
     authorInfo: bývalá obsahová specialistka zlatnictví Eppi
-  - topText: čtivé články respektující tonalitu značky
+  - topText: Čtivé články respektující tonalitu značky
     mainText: Jsem neskutečně ráda, že jsem navázala spolupráci právě s Lenkou.
       Dokáže z mého povídání nebo z příspěvků sepsat článek, který nejen
       zdůrazňuje to, co má, ale je čtivý, vtipný a ještě v tónu mé značky.
@@ -32,7 +32,7 @@ referenceItems:
       nejlepších copywriterek, která pro nás zatím psala. Vždy dodržuje termíny,
       domluvené zadání, komunikace je jedna radost a hlavně –⁠⁠⁠⁠⁠ její texty
       jsou kvalitní, čtivé a plné užitečných informací.
-    topText: komunikace jedna radost
+    topText: Komunikace jedna radost
 referenceItem:
   - topText: Lenka umí upoutat a navnadit
     mainText: '"Lenka má schopnost skvěle zkombinovat hlubokou znalost tématu se
