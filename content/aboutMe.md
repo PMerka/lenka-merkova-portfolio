@@ -1,5 +1,5 @@
 ---
-title: tohle jsem já
+title: Tohle jsem já
 ---
 ### JSEM LENKA A VĚNUJU SE TVORBĚ WEBOVÝCH TEXTŮ.
 
