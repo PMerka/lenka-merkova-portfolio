@@ -9,7 +9,7 @@ Copywriting je můj dream job – ráda píšu, pohrávám si se slovy a jejich 
 
 * filologické vzdělání na FFUK (Mgr.)
 * copywriterský certifikát [M.arter](https://app.openbadges.me/view/#!/badge?badgeid=553029d5-0687-4237-9843-0efadc6999b0&includeSocials=true)
-* certifikát pokročilého copywritingu u [LABA Skvot](https://lms.skvt.cz/certificate/6a4524768d3478ee60e7b8bcc10944e6)
+* certifikát pokročilého copywritingu u [SKVOT Czech](https://lms.skvt.cz/certificate/6a4524768d3478ee60e7b8bcc10944e6)
 * přes 600 publikovaných textů
 
 Mrkněte na [ochutnávku mých prací](#reference) nebo se zastavte na mém osobním blogu o čtení [Budiž kniha](https://www.budizkniha.cz/)!
