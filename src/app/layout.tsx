@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Inter, Arimo, Cinzel, IBM_Plex_Sans } from "next/font/google";
+import { Inter, Arimo, Amatic_SC, IBM_Plex_Sans } from "next/font/google";
 import "./globals.css";
 import metadataJSON from "/content/metadata.json";
 
@@ -9,6 +9,12 @@ const cinzel_init = IBM_Plex_Sans({
   subsets: ["latin"],
   weight: ["200", "300", "400", "500", "700"],
   variable: "--font-cinzel",
+});
+
+const amaticSC = Amatic_SC({
+  subsets: ["latin"],
+  weight: ["400", "700"],
+  variable: "--font-amaticSC",
 });
 
 const arimo_init = Arimo({
@@ -32,7 +38,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="cs">
-      <body className={`${cinzel_init.variable} ${arimo_init.variable}`}>
+      <body
+        className={`${cinzel_init.variable} ${arimo_init.variable} ${amaticSC.variable}`}
+      >
         {children}
       </body>
     </html>
