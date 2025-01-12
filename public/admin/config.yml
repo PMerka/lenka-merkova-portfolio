@@ -12,6 +12,12 @@ collections:
       preview: false
     label: "Hlavní stránka"
     files:
+      - label: "Metadata"
+        name: "metadata"
+        file: "content/metadata.json"
+        fields:
+          - { label: "title", name: "title", widget: "string" }
+          - { label: "favicon", name: "favicon", widget: "image" }
       #-----Úvodní sekce-----
       - label: "Úvodní sekce"
 

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, Arimo, Cinzel, IBM_Plex_Sans } from "next/font/google";
 import "./globals.css";
+import metadataJSON from "/content/metadata.json";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -17,7 +18,10 @@ const arimo_init = Arimo({
 });
 
 export const metadata: Metadata = {
-  title: "Lenka Měrková",
+  icons: {
+    icon: metadataJSON.favicon,
+  },
+  title: metadataJSON.title,
   description: "",
 };
 

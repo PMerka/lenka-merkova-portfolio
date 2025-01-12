@@ -40,6 +40,10 @@
   justify-content: center;
 }
 
+.rightColumn img {
+  max-width: 250px;
+}
+
 .email {
   font-size: 1.4em;
   font-weight: 600;
