@@ -24,8 +24,8 @@ body {
 
 h1 {
   font-size: 3rem !important;
-  font-weight: 700;
-  font-family: var(--font-amaticSC) !important;
+  font-weight: 600;
+  font-family: var(--oooh-baby) !important;
 }
 
 h2 {
@@ -55,6 +55,6 @@ a {
 
 .sectionsShared {
   max-width: 1200px;
-  margin: 40px auto;
-  padding: 40px 20px;
+  margin: 10px auto;
+  padding: 10px 10px;
 }

@@ -5,6 +5,7 @@
   flex-wrap: wrap-reverse;
   justify-content: center;
   scroll-margin-top: 50px;
+  padding: 70px;
 }
 
 .texts {
