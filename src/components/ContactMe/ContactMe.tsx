@@ -13,7 +13,7 @@ export default function ContactMe() {
 
   return (
     <div className={`${styles.contactMe} sectionsShared`} id="kontakt">
-      <h2>{title}</h2>
+      <h2 className={styles.title}>{title}</h2>
       <div className={styles.content}>
         <div className={styles.leftColumn}>
           <div dangerouslySetInnerHTML={{ __html: html }}></div>

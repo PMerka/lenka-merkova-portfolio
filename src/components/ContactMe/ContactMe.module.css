@@ -21,6 +21,10 @@
   padding-left: 0; /* Optional: adjust padding */
 }
 
+.title {
+  margin: 0.5em 0;
+}
+
 .leftColumn li::before {
   content: "🖂"; /* Set the image */
   color: var(--purple-dark);
