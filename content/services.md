@@ -20,8 +20,8 @@ services:
       a budou perfektně ladit s vaší značkou. "
   - mainText: "Máte texty, které potřebují doladit? Přejete si do nich dostat více
       emocí, přirozenosti nebo byste je rádi lépe přizpůsobili vašemu záměru?
-      Nechte to na mně! Opravím gramatiku, vybrousím tón textu a postarám se o
-      to, aby si zachoval svou původní autenticitu. "
+      Nechte to na mně! Opravím gramatiku, vybrousím tón a postarám se o to, aby
+      si text zachoval svou původní autenticitu. "
     title: COPYEDITING
   - mainText: Podle statistik je e-mail pořád jedním z nejúčinnějších marketingových
       nástrojů – pokud víte, jak ho správně využít. Napíšu pro vás newslettery,
