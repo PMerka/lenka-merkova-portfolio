@@ -3,7 +3,7 @@ title: Tohle jsem já
 ---
 ### JSEM LENKA A VĚNUJU SE TVORBĚ WEBOVÝCH TEXTŮ.
 
-Copywriting je můj dream job – ráda píšu, pohrávám si se slovy a jejich významy, nořím se do hlubin psychologie (nejen té marketingové), ráda se dozvídám nové věci. Navíc mě inspirují lidi, kteří se nebojí budovat vlastní projekty a dávají do nich srdce. ♥
+To, co dělám, mě baví – miluju práci se slovy, jejich významy a tím, co všechno dokážou. Ráda se dozvídám nové věci.  A inspirují mě lidi, kteří se nebojí budovat vlastní projekty a dávají do nich srdce. ♥
 
 ### MÁM ZA SEBOU
 
