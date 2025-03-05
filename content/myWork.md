@@ -14,6 +14,6 @@ myWorkItem:
     picture: upload/ukazka_4_logo.png
     link: https://drive.google.com/file/d/1QM6RLbRBcJxRw_rIDF_Huw92bijZtV95/view?usp=sharing
   - picture: upload/ukazka_5_logo.png
-    topText: Blogový článek pro svatební blog
+    topText: Článek pro svatební blog
     link: https://drive.google.com/file/d/1bqm6l_yjTyGlqLfkRoxwL9LgH0L0SXkp/view?usp=sharing
 ---
