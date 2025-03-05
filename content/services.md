@@ -18,4 +18,22 @@ services:
     mainText: "Vaše produkty si zaslouží víc než jen popis technických detailů.
       Vytvořím pro vás popisky, které na první pohled zaujmou, přesvědčí a budou
       perfektně ladit s vaší značkou. "
+  - mainText: "Máte texty, které potřebují doladit? Přejete si do nich dostat více
+      emocí, přirozenosti nebo byste je rádi lépe přizpůsobili vašemu záměru?
+      Nechte to na mně! Opravím gramatiku, vybrousím tón textu a postarám se o
+      to, aby si zachoval svou původní autenticitu. "
+    title: COPYEDITING
+  - mainText: Podle statistik je e-mail pořád jedním z nejúčinnějších marketingových
+      nástrojů – pokud víte, jak ho správně využít. Napíšu pro vás newslettery,
+      které mají hlavu a patu, osloví cílovku a budou korespondovat se stylem
+      vaší značky. Každý byznys je jiný – můžeme jít cestou přátelského,
+      rebelského, formálního i osobního příběhového tónu. To už záleží na vás.
+      :)
+    title: NEWSLETTERY
+  - mainText: Nevíte, co napsat do sekce „O nás“? Spolu to zjistíme! Lidé chtějí
+      znát váš příběh, hodnoty a důvod, proč děláte to, co děláte. Připravím pro
+      vás text, ve kterém se bude odrážet jedinečnost vaší značky, a pomůžu vám
+      vystihnout váš styl – ať už chcete působit profesionálně, inspirativně,
+      přátelsky nebo hravě.
+    title: STRÁNKA O NÁS
 ---
