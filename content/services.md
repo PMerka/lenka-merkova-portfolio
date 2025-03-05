@@ -9,11 +9,10 @@ services:
       informace a odpovídal vašemu jazykovému stylu.
   - title: PRODEJNÍ STRÁNKA
     shortText: ""
-    mainText: Prodejní stránka si žádá texty, které chytí, vtáhnou a dovedou
-      zákazníka k akci. Ukažme jim, proč je vaše služba tím, co hledají.
-      Zaměříme se na skutečné benefity, které nabízíte, najdeme neprůstřelné
-      argumenty – výsledkem bude vypiplaná prodejka, která nenechá vaše
-      zákazníky váhat.
+    mainText: Skvělá prodejní stránka chytí, vtáhne a dovede zákazníka k akci.
+      Ukažme jim, proč je vaše služba tím, co hledají! Zaměříme se na skutečné
+      benefity, které nabízíte, najdeme neprůstřelné argumenty – a z těch
+      nakonec vytvoříme luxusní prodejku, která se trefí do černého.
   - title: PRODUKTOVÉ POPISKY
     shortText: ""
     mainText: "Vaše produkty / služby si zaslouží víc než jen popis technických
