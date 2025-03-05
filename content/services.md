@@ -27,8 +27,8 @@ services:
       nástrojů – pokud víte, jak ho správně využít. Napíšu pro vás newslettery,
       které mají hlavu a patu, osloví cílovku a budou korespondovat se stylem
       vaší značky. Každý byznys je jiný – můžeme jít cestou přátelského,
-      rebelského, formálního i osobního příběhového tónu. Co z toho se hodí k
-      vám? :)
+      rebelského, formálního i osobního příběhového tónu. Co z toho sluší VÁM?
+      :)
     title: NEWSLETTERY
   - mainText: Nevíte, co napsat do sekce „O nás“? Spolu to zjistíme! Lidé chtějí
       znát váš příběh, hodnoty a důvod, proč děláte to, co děláte. Připravím pro
