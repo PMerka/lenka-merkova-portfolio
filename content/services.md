@@ -14,7 +14,7 @@ services:
       zákazníka.
   - title: PRODUKTOVÉ POPISKY
     shortText: ""
-    mainText: Produktové popisky. Myslíte, že s nimi nemůže být zábava? No… popravdě
-      vlastně nemusí. Ale může! Přimíchejme do koktejlu bezbarvých parametrů
-      trochu šťávy :)
+    mainText: "Vaše produkty / služby si zaslouží víc než jen popis technických
+      detailů. Vytvořím pro vás trefné popisky, které na první pohled zaujmou,
+      přesvědčí a budou ladit s vaší značkou. "
 ---
