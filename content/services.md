@@ -15,9 +15,9 @@ services:
       vytvořím luxusní prodejku, která se trefí do černého.
   - title: PRODUKTOVÉ POPISKY
     shortText: ""
-    mainText: "Vaše produkty si zaslouží víc než jen popis technických detailů.
-      Vytvořím pro vás popisky, které na první pohled zaujmou, přesvědčí a budou
-      perfektně ladit s vaší značkou. "
+    mainText: "Vaše produkty si zaslouží víc než jen strohý popis technických
+      detailů. Napíšu pro vás popisky, které na první pohled zaujmou, přesvědčí
+      a budou perfektně ladit s vaší značkou. "
   - mainText: "Máte texty, které potřebují doladit? Přejete si do nich dostat více
       emocí, přirozenosti nebo byste je rádi lépe přizpůsobili vašemu záměru?
       Nechte to na mně! Opravím gramatiku, vybrousím tón textu a postarám se o
