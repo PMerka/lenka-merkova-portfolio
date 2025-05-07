@@ -8,6 +8,16 @@ referenceItems:
       navnadit, navíc se na ni můžeme v každém ohledu stoprocentně spolehnout.
     author: Janča Hartlová
     authorInfo: obsahová specialistka online knihkupectví Martinus
+  - mainText: Lenku mohu doporučit každému, kdo má zájem o kvalitní texty. Pro náš
+      e-shop píše blogové články, newslettery a příspěvky na sociální sítě. Její
+      texty jsou poutavé a umí do nich mimo jiné velmi dobře zakomponovat
+      klíčová slova, což významně přispívá k lepšímu umístění ve vyhledávačích.
+      Texty jsou čtivé, informačně hodnotné a celková komunikace s Lenkou je
+      velmi příjemná a profesionální. Oceňuji především naprostou samostatnost a
+      kreativitu. Své práci nejen rozumí, ale dělá ji srdcem.
+    topText: LENKA SVÉ PRÁCI ROZUMÍ A DĚLÁ JI SRDCEM
+    author: Jana Hromková
+    authorInfo: majitelka e-shopu Jsem máma
   - topText: EMPATICKÝ PŘÍSTUP A BARVITÉ TEXTY
     mainText: Lenka je skvělou copywriterkou, se kterou je radost spolupracovat. Nad
       obsahem pečlivě přemýšlí, umí klást dobré otázky, díky kterým pak vytvoří
@@ -33,16 +43,6 @@ referenceItems:
       domluvené zadání, komunikace je jedna radost a hlavně –⁠⁠⁠⁠⁠ její texty
       jsou kvalitní, čtivé a plné užitečných informací.
     topText: KOMUNIKACE JEDNA RADOST
-  - mainText: Lenku mohu doporučit každému, kdo má zájem o kvalitní texty. Pro náš
-      e-shop píše blogové články, newslettery a příspěvky na sociální sítě. Její
-      texty jsou poutavé a umí do nich mimo jiné velmi dobře zakomponovat
-      klíčová slova, což významně přispívá k lepšímu umístění ve vyhledávačích.
-      Texty jsou čtivé, informačně hodnotné a celková komunikace s Lenkou je
-      velmi příjemná a profesionální. Oceňuji především naprostou samostatnost a
-      kreativitu. Své práci nejen rozumí, ale dělá ji srdcem.
-    topText: LENKA SVÉ PRÁCI ROZUMÍ A DĚLÁ JI SRDCEM
-    author: Jana Hromková
-    authorInfo: majitelka e-shopu Jsem máma
 referenceItem:
   - topText: Lenka umí upoutat a navnadit
     mainText: '"Lenka má schopnost skvěle zkombinovat hlubokou znalost tématu se
