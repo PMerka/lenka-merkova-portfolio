@@ -39,9 +39,8 @@ referenceItems:
       klíčová slova, což významně přispívá k lepšímu umístění ve vyhledávačích.
       Texty jsou čtivé, informačně hodnotné a celková komunikace s Lenkou je
       velmi příjemná a profesionální. Oceňuji především naprostou samostatnost a
-      kreativitu. Své práci nejen rozumí, ale dělá ji
-      srdcem.[](https://www.jsemmama.cz/)
-    topText: Lenka své práci nejen rozumí, ale dělá ji srdcem.
+      kreativitu. Své práci nejen rozumí, ale dělá ji srdcem.
+    topText: LENKA SVÉ PRÁCI ROZUMÍ A DĚLÁ JI SRDCEM
     author: Jana Hromková
     authorInfo: majitelka e-shopu Jsem máma
 referenceItem:
