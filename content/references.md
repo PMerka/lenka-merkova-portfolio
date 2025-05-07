@@ -43,7 +43,7 @@ referenceItems:
       srdcem.[](https://www.jsemmama.cz/)
     topText: Lenka své práci nejen rozumí, ale dělá ji srdcem.
     author: Jana Hromková
-    authorInfo: majitelka e-shopu Jsem máma (jsemmama.cz)
+    authorInfo: majitelka e-shopu Jsem máma
 referenceItem:
   - topText: Lenka umí upoutat a navnadit
     mainText: '"Lenka má schopnost skvěle zkombinovat hlubokou znalost tématu se
