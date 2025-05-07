@@ -27,12 +27,23 @@ referenceItems:
     author: Joanna Bajger
     authorInfo: svatební koordinátorka  (planujsrdcem.cz)
   - author: Hana Terberová
-    authorInfo: "zakladatelka webu Zivotavyziva.cz "
+    authorInfo: "zakladatelka webu zivotavyziva.cz "
     mainText: S Lenkou spolupracujeme už pár měsíců a musím říct, že je to jedna z
       nejlepších copywriterek, která pro nás zatím psala. Vždy dodržuje termíny,
       domluvené zadání, komunikace je jedna radost a hlavně –⁠⁠⁠⁠⁠ její texty
       jsou kvalitní, čtivé a plné užitečných informací.
     topText: KOMUNIKACE JEDNA RADOST
+  - mainText: Lenku mohu doporučit každému, kdo má zájem o kvalitní texty. Pro náš
+      e-shop píše blogové články, newslettery a příspěvky na sociální sítě. Její
+      texty jsou poutavé a umí do nich mimo jiné velmi dobře zakomponovat
+      klíčová slova, což významně přispívá k lepšímu umístění ve vyhledávačích.
+      Texty jsou čtivé, informačně hodnotné a celková komunikace s Lenkou je
+      velmi příjemná a profesionální. Oceňuji především naprostou samostatnost a
+      kreativitu. Své práci nejen rozumí, ale dělá ji
+      srdcem.[](https://www.jsemmama.cz/)
+    topText: Lenka své práci nejen rozumí, ale dělá ji srdcem.
+    author: Jana Hromková
+    authorInfo: majitelka e-shopu Jsem máma (jsemmama.cz)
 referenceItem:
   - topText: Lenka umí upoutat a navnadit
     mainText: '"Lenka má schopnost skvěle zkombinovat hlubokou znalost tématu se
