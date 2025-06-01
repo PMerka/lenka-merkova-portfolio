@@ -16,12 +16,12 @@ export default function Home() {
       <div className={styles.mainContainer}>
         <HeroSection />
         <Services />
+        <WhoAmI />
+        <References />
+        <MyWork />{" "}
         <div className={styles.graphicSection}>
           <PriceList />
         </div>
-        <WhoAmI />
-        <References />
-        <MyWork />
         <ContactMe />
       </div>
       <Footer />
