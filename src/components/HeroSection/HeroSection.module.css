@@ -50,15 +50,18 @@
 }
 
 .belowSection li {
-  margin-bottom: 0.5em;
+  position: relative;
+  padding-left: 1.8em;
+  list-style-type: none;
 }
 
-.belowSection li::marker {
-  content: "🗸  "; /* Set the image */
-  line-height: 2.1;
+.belowSection li::before {
+  content: "🗸";
+  position: absolute;
+  left: 0;
+  top: 0em;
   color: var(--purple-dark);
   font-weight: bold;
-  font-size: 1.2em;
 }
 
 .profileImage {
@@ -81,7 +84,8 @@
     height: max(40vh, 600px);
   }
 
-  .belowSection ul {
-    column-gap: 100px;
+  .belowSection u.brxe-list {
+    list-style: none;
+    padding-left: 0;
   }
 }
