@@ -93,6 +93,12 @@ collections:
                   { label: Hlavní text, name: text, widget: "text" },
                 ],
             }
+          - {
+              label: "Text akčního tlačítka",
+              name: "actionButton",
+              widget: "string",
+              required: false,
+            }
 
       #-----O mně-----
       - label: "O mně"
@@ -104,6 +110,12 @@ collections:
               label: 'Hlavní text (používej "heading 3" pro nadpisy)',
               name: "body",
               widget: "markdown",
+            }
+          - {
+              label: "Text akčního tlačítka",
+              name: "actionButton",
+              widget: "string",
+              required: false,
             }
 
       #-----References-----
