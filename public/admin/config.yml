@@ -97,6 +97,7 @@ collections:
               label: "Text akčního tlačítka",
               name: "actionButton",
               widget: "string",
+              required: false,
             }
 
       #-----O mně-----
@@ -114,6 +115,7 @@ collections:
               label: "Text akčního tlačítka",
               name: "actionButton",
               widget: "string",
+              required: false,
             }
 
       #-----References-----
