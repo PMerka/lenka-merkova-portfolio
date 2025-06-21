@@ -25,7 +25,7 @@
 }
 
 .myWorkItemImg {
-  width: 90%;
+  max-width: 90%;
   max-height: 90%;
   margin: 5%;
   aspect-ratio: 1;
