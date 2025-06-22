@@ -1,5 +1,5 @@
 ---
-title: Napíšu pro vás...
+title: Napíšu pro vás
 services:
   - title: BLOGOVÉ ČLÁNKY
     shortText: ""
