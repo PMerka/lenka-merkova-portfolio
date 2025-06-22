@@ -103,7 +103,7 @@ collections:
       #-----O mně-----
       - label: "O mně"
         name: "aboutMe"
-        file: "content/aboutMe.md"
+        file: "content/aboutMe.json"
         fields:
           - { label: "Nadpis", name: "title", widget: "string" }
           - {

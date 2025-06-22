@@ -6,6 +6,7 @@ import Button from "../Button/Button";
 type Paragraph = {
   title: string;
   text: string;
+  actionButton: string;
 };
 
 export default function PriceList() {
@@ -25,7 +26,7 @@ export default function PriceList() {
           </div>
 
           <div className={styles.actionButton}>
-            <Button> Chci text </Button>
+            <Button> {priceList?.actionButton} </Button>
           </div>
         </div>
 
