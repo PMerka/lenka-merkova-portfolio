@@ -111,12 +111,6 @@ collections:
               name: "body",
               widget: "markdown",
             }
-          - {
-              label: "Text akčního tlačítka",
-              name: "actionButton",
-              widget: "string",
-              required: false,
-            }
 
       #-----References-----
       - label: "Reference"

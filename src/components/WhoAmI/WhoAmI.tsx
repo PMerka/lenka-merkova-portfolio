@@ -11,8 +11,6 @@ export default function WhoAmI() {
       <div className={styles.content}>
         <div className={styles.first}>
           <img className={styles.img} src="upload/profilovka_2.png" alt="" />
-
-          <Button> {aboutMe?.actionButton} </Button>
         </div>
         <div className={styles.second}>
           <ReactMarkdown>{aboutMe?.body}</ReactMarkdown>
