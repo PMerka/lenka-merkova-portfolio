@@ -13,7 +13,9 @@ export default function MyWorkItem({
   return (
     <a href={link} target="_blank">
       <div className={styles.myWorkItem}>
-        <img src={imgSrc} alt="" className={styles.myWorkItemImg} />{" "}
+        <div className={styles.aspectWrapper}>
+          <img src={imgSrc} alt="" className={styles.myWorkItemImg} />{" "}
+        </div>
         <div className={styles.titleSection}>
           <h4 className={styles.title}>{title}</h4>
         </div>
