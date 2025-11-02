@@ -59,7 +59,7 @@ collections:
                   {
                     label: Hlavní text,
                     name: mainText,
-                    widget: "text",
+                    widget: "markdown",
                     required: false,
                   },
                 ],
