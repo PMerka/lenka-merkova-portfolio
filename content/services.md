@@ -1,39 +1,100 @@
 ---
-title: Napíšu pro vás
+title: Služby
 services:
   - title: BLOGOVÉ ČLÁNKY
     shortText: ""
-    mainText: Chcete blog, který přitáhne čtenáře i zákazníky? Napíšu pro vás
-      kvalitní a poutavé články, které podpoří vaše cíle. Společně se zaměříme
-      na to, aby text budoval důvěru k vaší značce, přinášel hodnotné informace
-      a odpovídal vašemu jazykovému stylu.
+    mainText: >-
+      **Chcete blog, který přitáhne čtenáře i zákazníky?**
+
+
+      Napíšu vám články, které se budou číst samy. Takové, co zaujmou, ale taky něco předají – a vaší značce pomůžou růst.
+
+
+      **Co můžete od textů očekávat?**
+
+      	• Přirozeně **podpoří vaše cíle**
+
+      	• Postupně vybudují **důvěru k vaší značce**
+
+      	• Přinese zákazníkům **hodnotné informace**
+
+       ✓ SEO samozřejmostí.
+
+      Ozvěte se – vymyslíme spolu obsah, který bude odpovídat vašemu jazykovému stylu i hodnotám.
   - title: PRODEJNÍ STRÁNKA
     shortText: ""
-    mainText: Skvělá prodejní stránka zákazníka chytí, vtáhne a dovede k akci.
-      Ukažme mu, proč je vaše služba tím, co hledá! Zaměříme se na skutečné
-      benefity, které nabízíte, najdeme neprůstřelné argumenty – a z těch pak
-      vytvořím luxusní prodejku, která se trefí do černého.
+    mainText: >-
+      **Skvělá prodejka chytí, vtáhne do děje a dovede k akci.** 
+
+
+      A přesně takovou spolu vytvoříme:
+
+
+      * Zaměříme se na **klíčové benefity**, které vaše služba nebo produkt přináší
+
+      * Ukážeme zákazníkům, **proč jste pro ně tou správnou volbou**
+
+      * Najdeme argumenty, které **vaše cílovka opravdu slyší**
+
+      * Vyladíme text tak, aby neprodával „na sílu“, ale **přirozeně**
+
+
+      Pojďme společně „vyrobit“ prodejní stránku, která bude znít jako **pozvánka, která dává smysl**.
   - title: PRODUKTOVÉ POPISKY
     shortText: ""
-    mainText: "Vaše produkty si zaslouží víc než jen strohý popis technických
-      detailů. Napíšu pro vás popisky, které na první pohled zaujmou, přesvědčí
-      a budou perfektně ladit s vaší značkou. "
-  - mainText: "Máte texty, které potřebují doladit? Přejete si do nich dostat více
-      emocí, přirozenosti nebo byste je rádi lépe přizpůsobili vašemu záměru?
-      Nechte to na mně! Opravím gramatiku, vybrousím tonalitu a postarám se o
-      to, aby si vaše texty zachovaly svou původní autenticitu. "
+    mainText: >-
+      Vaše produkty si zaslouží víc než jen strohý popis technických detailů.
+      Napíšu pro vás texty, které na první pohled zaujmou, přesvědčí a budou
+      perfektně ladit s vaší značkou. 
+
+
+      **Co můžete čekat?**
+
+
+      * úderné, srozumitelné a lákavé texty, které **vystihnou váš produkt**
+
+      * tón, který **sedne vaší cílovce**
+
+      * přirozeně **zapracované SEO**
+  - mainText: >-
+      **Potřebujete korekturu nebo vyladit text, co už máte?**
+
+
+      I sebevědomý text občas potřebuje doladit. Upravím vám články, weby, brožury nebo e-booky tak, aby zněly srozumitelně, přirozeně – a zároveň chytře.
+
+
+      **Kdy se vám copyediting může hodit?**
+
+
+      * Když máte hotový text, ale *„něco mu chybí“*
+
+      * Když potřebujete **opravit gramatiku** a **jemně uhladit styl**
+
+      * Když si přejete do textů dostatvíce šťávy, emocí nebo byste je rádi lépe přizpůsobili vašemu záměru
+
+
+      Jinými slovy: když chcete, aby to **prostě znělo líp**. :)
     title: COPYEDITING
-  - mainText: Podle statistik je e-mail pořád jedním z nejúčinnějších marketingových
-      nástrojů – pokud víte, jak ho správně využít. Napíšu pro vás newslettery,
-      které mají hlavu a patu, osloví cílovku a budou korespondovat se stylem
-      vaší značky. Každý byznys je jiný – můžeme jít cestou přátelského,
-      rebelského, formálního i osobního příběhového tónu. Co z toho sluší VÁM?
-      :)
-    title: NEWSLETTERY
-  - mainText: Nevíte, co napsat do sekce „O nás“? Spolu to zjistíme! Lidé chtějí
-      znát váš příběh, hodnoty a důvod, proč děláte to, co děláte. Připravím pro
-      vás text, ve kterém se bude odrážet jedinečnost vaší značky, a pomůžu vám
-      vystihnout váš styl – ať už chcete působit profesionálně, inspirativně,
-      přátelsky nebo hravě.
+  - mainText: >-
+      **Potřebujete texty na web, které budou fungovat?**
+
+
+      Úspěch vašich webových stránek záleží na mnoha dílcích velké marketingové skládačky – a jedním z těchto dílků jsou právě **strategicky napsané texty**, se kterými vám ráda pomůžu.
+
+
+      **Co ode mě dostanete?**
+
+
+      * Obsah, který **vyzdvihne to, co mají**
+
+      * Originální jazykový **styl, na který AI nestačí**
+
+      * Texty, které upoutají **cílového zákazníka i vyhledávače**
+    title: WEB COPYWRITING
+  - mainText: >-
+      **Nevíte, co napsat do sekce „O nás“?**
+
+
+      Spolu to **zjistíme**.Lidé chtějí znát váš příběh, hodnoty a důvod, proč děláte to, co děláte. Připravím pro vás text, ve kterém se bude odrážet **jedinečnost vaší značky**, a pomůžu vám vystihnout váš styl – ať už chcete působit profesionálně, inspirativně, přátelsky nebo hravě.
     title: STRÁNKA O NÁS
 ---
