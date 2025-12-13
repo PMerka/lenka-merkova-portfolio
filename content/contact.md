@@ -1,9 +1,9 @@
 ---
 title: "Domluvíme se? "
 ---
-Napište mi na adresu **lenka.svidrnochova@gmail.com** a dejte vědět, co přesně potřebujete.
+Napište mi na adresu **lenka.svidrnochova@gmail.com** a domluvíme si krátký, **nezávazný hovor**.
 
-V e-mailu, prosím, specifikujte:
+Určitě pomůže, když v e-mailu specifikujete:
 
 * **O jaké texty máte zájem** a jaký by byl jejich **přibližný rozsah**.
 * **Téma vašeho projektu** + odkaz na vaše stránky / sociální sítě.
