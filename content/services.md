@@ -3,11 +3,26 @@ title: Služby
 services:
   - title: BLOGOVÉ ČLÁNKY
     shortText: ""
-    mainText: "**Chcete blog**, který přitáhne čtenáře i zákazníky? Napíšu vám
-      články, které se budou číst samy – takové, které zaujmou, pomohou vaší
-      značce růst a přirozeně podpoří vaše cíle. SEO je samozřejmostí. Ozvěte se
-      a společně vymyslíme obsah, který bude odpovídat vašemu jazykovému stylu i
-      hodnotám."
+    mainText: >-
+      **Chcete blog, který přitáhne čtenáře i zákazníky?**
+
+
+      Napíšu pro vás články, které se budou číst samy. Takové, co zaujmou, ale taky něco předají
+
+      a vaší značce pomůžou růst.
+
+
+      **Co můžete od textů očekávat?**
+
+
+      * Přirozeně podpoří vaše cíle
+
+      * Postupně vybudují důvěru k vaší značce
+
+      * Přitáhnou čtenáře, zákazníky i vyhledávače
+
+
+       Ozvěte se! Vymyslíme spolu obsah, který bude odpovídat vašemu jazykovému stylu i hodnotám.
   - title: PRODEJNÍ STRÁNKA
     shortText: ""
     mainText: Skvělá prodejka chytí, vtáhne do děje a dovede k akci – a právě
