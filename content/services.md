@@ -26,7 +26,7 @@ services:
   - title: PRODEJNÍ STRÁNKA
     shortText: ""
     mainText: >-
-      **Skvělá prodejka chytí, vtáhne do děje a dovede k akci.** 
+      **Skvělá prodejka chytí, vtáhne do děje a dovede k akci.** 
 
 
       A přesně takovou spolu vytvoříme:
