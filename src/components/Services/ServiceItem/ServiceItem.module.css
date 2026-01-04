@@ -23,6 +23,10 @@
   margin: 1.5em 0 3em;
 }
 
+.mainText li {
+  padding-bottom: 0.2em;
+}
+
 .header {
   padding: 10px 0;
   background-color: var(--purple-dark);
