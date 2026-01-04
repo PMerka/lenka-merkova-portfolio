@@ -1,5 +1,6 @@
 import React from "react";
 import styles from "./ServiceItem.module.css";
+import ReactMarkdown from "react-markdown";
 
 export default function ServiceItem({
   title,
@@ -16,8 +17,12 @@ export default function ServiceItem({
         <h3 className={styles.title}>{title}</h3>
       </div>
       <div className={styles.body}>
-        <div className={styles.mainText}>{mainText}</div>
-        <div className={styles.shortText}>{annotation}</div>
+        <div className={styles.mainText}>
+          <ReactMarkdown>{mainText}</ReactMarkdown>
+        </div>
+        <div className={styles.shortText}>
+          <ReactMarkdown>{annotation}</ReactMarkdown>
+        </div>
       </div>
     </div>
   );
