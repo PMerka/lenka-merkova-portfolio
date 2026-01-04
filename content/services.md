@@ -26,7 +26,7 @@ services:
   - title: PRODEJNÍ STRÁNKA
     shortText: ""
     mainText: >-
-      Skvělá prodejka chytí, vtáhne do děje a dovede k akci. 
+      **Skvělá prodejka chytí, vtáhne do děje a dovede k akci.** 
 
 
       A přesně takovou spolu vytvoříme:
@@ -45,9 +45,11 @@ services:
   - title: PRODUKTOVÉ POPISKY
     shortText: ""
     mainText: >-
-      Vaše produkty si zaslouží víc než jen strohý popis technických detailů.
-      Napíšu pro vás texty, které na první pohled zaujmou, přesvědčí a budou
-      perfektně ladit s vaší značkou.
+      **Vaše produkty si zaslouží víc než jen strohý popis technických
+      detailů.**
+
+
+      Napíšu pro vás texty, které na první pohled zaujmou, přesvědčí a budou perfektně ladit s vaší značkou.
 
 
       **Co můžete čekat?**
