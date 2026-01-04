@@ -4,19 +4,6 @@
     "priceLabel": "hodinová sazba",
     "price": "600 Kč / hod"
   },
-  "paragraphs": [
-    {
-      "title": "Výsledná cena textu",
-      "text": "Cena textů vždy závisí na konkrétním zadání a odvíjí se od hodinové sazby (tj. 550 Kč / hod). Roli obvykle hraje rozsah práce, náročnost tématu, dostupnost podkladů a počet úprav. Finální částka pak zahrnuje nejen samotné psaní, ale i dobu strávenou studiem podkladů a konzultacemi."
-    },
-    {
-      "title": "Jak vypadá spolupráce",
-      "text": "Nejprve si zavoláme, abych se mohla doptat na vaši hrubou představu o textech – a pokud si plácneme, čeká nás ještě online call, kdy vaše vize probereme do hloubky. Upozorňuju, že v této fázi budu hooooooodně zvědavá. :) No a pak už jen v klidu čekáte na texty, které vám dodám v Google dokumentu, případně ve Wordu."
-    },
-    {
-      "title": "Kdy bude hotovo",
-      "text": "Termíny dodání se mohou lišit podle rozsahu poptávky a mých aktuálních závazků. Otázku termínu každopádně vyřešíme hned na začátku."
-    }
-  ],
+  "paragraphs": "Test",
   "actionButton": "Chci text"
 }
