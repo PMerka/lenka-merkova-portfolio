@@ -53,17 +53,29 @@ services:
       **Co můžete čekat?**
 
 
-      * úderné a srozumitelné texty, které **vystihnou váš produkt**
+      * Úderné a srozumitelné texty, které **vystihnou váš produkt**
 
-      * tón, který **sedne vaší cílovce**
+      * Tón, který **sedne vaší cílovce**
 
-      * přirozeně **zapracované SEO**
-  - mainText: Potřebujete vyladit text, který už máte? Upravím vaše články, weby,
-      brožury nebo e-booky tak, aby zněly srozumitelně a přirozeně. Copyediting
-      se hodí tehdy, když máte hotový text, ale „něco mu chybí“. Když
-      potřebujete opravit gramatiku a uhladit styl, nebo když chcete do textu
-      dostat více šťávy, emocí nebo ho potřebujete lépe přizpůsobit zamýšlenému
-      účelu.
+      * Přirozeně **zapracované SEO**
+  - mainText: >-
+      **Potřebujete korekturu nebo vyladit text, co už máte?**
+
+
+      I sebevědomý text občas potřebuje doladit. Upravím vám články, web nebo e-booky tak, aby zněly srozumitelně a přirozeně.
+
+
+      **Kdy se vám copyediting může hodit?**
+
+
+      * Když potřebujete opravit gramatiku a **jemně uhladit styl**
+
+      * Když si přejete do textů dostat více **šťávy**, **emocí** nebo byste je rádi **lépe přizpůsobili vašemu záměru**
+
+      * Když máte hotový text, ale **„něco mu chybí“**
+
+
+      Jinými slovy – když chcete, aby to znělo líp. :)
     title: COPYEDITING
   - mainText: Potřebujete texty na web, které budou skutečně fungovat? Úspěch vašich
       stránek stojí na mnoha dílcích marketingové skládačky a jedním z těch
