@@ -25,18 +25,39 @@ services:
        Ozvěte se! Vymyslíme spolu obsah, který bude odpovídat vašemu jazykovému stylu i hodnotám.
   - title: PRODEJNÍ STRÁNKA
     shortText: ""
-    mainText: Skvělá prodejka chytí, vtáhne do děje a dovede k akci – a právě
-      takovou spolu vytvoříme. Zaměříme se na klíčové benefity vašeho produktu,
-      ukážeme zákazníkům, proč jste pro ně tou správnou volbou, a najdeme
-      argumenty, které vaše cílovka opravdu slyší. Text vyladíme tak, aby
-      neprodával „na sílu“, ale působil přirozeně.
+    mainText: >-
+      Skvělá prodejka chytí, vtáhne do děje a dovede k akci. 
+
+
+      A přesně takovou spolu vytvoříme:
+
+
+      * Zaměříme se na **klíčové benefity**, které vaše služba nebo produkt přináší
+
+      * Ukážeme zákazníkům, proč jste pro ně právě vy **tou nejlepší volbou**
+
+      * Najdeme argumenty, na které vaše cílovka **opravdu slyší**
+
+      * Vyladíme text tak, aby neprodával „na sílu“, ale **přirozeně**
+
+
+      Pojďme společně vytvořit prodejní stránku, která bude znít jako pozvánka.
   - title: PRODUKTOVÉ POPISKY
     shortText: ""
-    mainText: Vaše produkty si zaslouží víc než strohý technický popis. Napíšu pro
-      vás texty, které na první pohled zaujmou, přesvědčí a dokonale zapadnou do
-      stylu vaší značky. Můžete očekávat úderné, srozumitelné a lákavé popisy,
-      které vystihnou váš produkt, tón, který sedne vaší cílové skupině, a
-      přirozeně zapracované SEO.
+    mainText: >-
+      Vaše produkty si zaslouží víc než jen strohý popis technických detailů.
+      Napíšu pro vás texty, které na první pohled zaujmou, přesvědčí a budou
+      perfektně ladit s vaší značkou.
+
+
+      **Co můžete čekat?**
+
+
+      * úderné a srozumitelné texty, které **vystihnou váš produkt**
+
+      * tón, který **sedne vaší cílovce**
+
+      * přirozeně **zapracované SEO**
   - mainText: Potřebujete vyladit text, který už máte? Upravím vaše články, weby,
       brožury nebo e-booky tak, aby zněly srozumitelně a přirozeně. Copyediting
       se hodí tehdy, když máte hotový text, ale „něco mu chybí“. Když
