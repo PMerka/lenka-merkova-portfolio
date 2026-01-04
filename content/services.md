@@ -4,7 +4,7 @@ services:
   - title: BLOGOVÉ ČLÁNKY
     shortText: ""
     mainText: >-
-      **Chcete blog, který přitáhne čtenáře i zákazníky?**
+      **Chcete blog, který přitáhne čtenáře i zákazníky?**
 
 
       Napíšu pro vás články, které se budou číst samy. Takové, co zaujmou, ale taky něco předají
