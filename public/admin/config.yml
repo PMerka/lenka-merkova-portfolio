@@ -84,14 +84,8 @@ collections:
           - {
               label: "Odstavce",
               name: "paragraphs",
-              allow_add: true,
-              collapsed: false,
-              widget: "list",
-              fields:
-                [
-                  { label: Nadpis, name: title, widget: "string" },
-                  { label: Hlavní text, name: text, widget: "text" },
-                ],
+              widget: "markdown",
+              required: false,
             }
           - {
               label: "Text akčního tlačítka",

@@ -2,6 +2,7 @@ import React from "react";
 import styles from "./PriceList.module.css";
 import priceList from "/content/priceList.json";
 import Button from "../Button/Button";
+import ReactMarkdown from "react-markdown";
 
 type Paragraph = {
   title: string;
@@ -31,12 +32,7 @@ export default function PriceList() {
         </div>
 
         <div>
-          {priceList.paragraphs.map((paragraph: Paragraph, index: number) => (
-            <div key={index} className={styles.article}>
-              <h3>{paragraph?.title}</h3>
-              <p>{paragraph?.text}</p>
-            </div>
-          ))}
+          <ReactMarkdown>{priceList?.paragraphs}</ReactMarkdown>
         </div>
       </div>
     </div>
