@@ -77,16 +77,26 @@ services:
 
       Jinými slovy – když chcete, aby to znělo líp. :)
     title: COPYEDITING
-  - mainText: Potřebujete texty na web, které budou skutečně fungovat? Úspěch vašich
-      stránek stojí na mnoha dílcích marketingové skládačky a jedním z těch
-      klíčových jsou právě strategicky napsané texty. Společně dáme dohromady
-      obsah, který vyzdvihne to hlavní. Samozřejmostí je jazyk, na který AI
-      nestačí, a texty, které přitáhnou cílového zákazníka i vyhledávače.
+  - mainText: >-
+      **Potřebujete texty na web, které budou fungovat?**
+
+
+      Úspěch vašich webových stránek záleží na mnoha dílcích velké marketingové skládačky – a jedním z těchto dílků jsou strategicky napsané texty, se kterými vám ráda pomůžu.
+
+
+      **Co ode mě dostanete?**
+
+
+      * Obsah, který **vyzdvihne to, co má**
+
+      * Originální **jazykový styl**, na který AI nestačí
+
+      * Texty, které upoutají **cílového zákazníka i vyhledávače**
     title: WEB COPYWRITING
-  - mainText: Nevíte, co napsat do sekce „O nás“? Společně to zjistíme. Lidé chtějí
-      znát váš příběh, hodnoty a důvod, proč děláte to, co děláte. Připravím
-      text, ve kterém se odrazí jedinečnost vaší značky, a pomůžu vám vystihnout
-      styl, který potřebujete – ať už chcete působit profesionálně,
-      inspirativně, přátelsky nebo hravě.
+  - mainText: >-
+      **Nevíte, co napsat do sekce „O nás“?**
+
+
+      Spolu to zjistíme. Lidé chtějí znát váš příběh, hodnoty a důvod, **proč děláte to, co děláte**. Připravím pro vás text, ve kterém se bude odrážet **jedinečnost vaší značky**, a pomůžu vám vystihnout váš styl – ať už chcete působit profesionálně, inspirativně, přátelsky nebo hravě.
     title: STRÁNKA O NÁS
 ---
