@@ -11,7 +11,6 @@ type Paragraph = {
 };
 
 export default function PriceList() {
-  console.log(priceList.paragraphs);
   return (
     <div className={`${styles.priceList} sectionsShared`} id="cenik">
       <h2>{priceList.title}</h2>

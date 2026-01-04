@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     icon: metadataJSON.favicon,
   },
   title: metadataJSON.title,
-  description: "",
+  description: metadataJSON.metaDescription,
 };
 
 export default function RootLayout({
