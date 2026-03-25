@@ -5,7 +5,7 @@ Napište mi na adresu **lenka.svidrnochova@gmail.com** a domluvíme si dvaceti
 
 Zjistíme, co pro vás mohu udělat, a jestli jsem pro vás ta pravá. :)
 
-+ Určitě pomůže, když v e-mailu rovnou specifikujete:
+Určitě pomůže, když v e-mailu rovnou specifikujete:
 
 * **O jaké texty máte zájem** a jaký by byl jejich **přibližný rozsah**.
 * **Téma vašeho projektu** + odkaz na vaše stránky / sociální sítě.
