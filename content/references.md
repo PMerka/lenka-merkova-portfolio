@@ -2,19 +2,21 @@
 title: Řekli o mně
 referenceItems:
   - topText: LENKA UMÍ UPOUTAT A NAVNADIT
-    mainText: Lenka má schopnost skvěle zkombinovat hlubokou znalost tématu se
-      srozumitelným a čtivým podáním tak, aby její psaní bylo přístupné širokému
-      spektru čtenářů a čtenářek. Umí jasně zformulovat myšlenku, upoutat i
-      navnadit, navíc se na ni můžeme v každém ohledu stoprocentně spolehnout.
+    mainText: Lenka pro nás píše články na blog. Má schopnost skvěle zkombinovat
+      hlubokou znalost tématu se srozumitelným a čtivým podáním tak, aby její
+      psaní bylo přístupné širokému spektru čtenářů a čtenářek. Umí jasně
+      zformulovat myšlenku, upoutat i navnadit, navíc se na ni můžeme v každém
+      ohledu stoprocentně spolehnout.
     author: Janča Hartlová
     authorInfo: obsahová specialistka online knihkupectví Martinus
-  - mainText: Lenku mohu doporučit každému, kdo má zájem o kvalitní texty. Pro náš
-      e-shop píše blogové články, newslettery a příspěvky na sociální sítě. Její
-      texty jsou poutavé a umí do nich mimo jiné velmi dobře zakomponovat
-      klíčová slova, což významně přispívá k lepšímu umístění ve vyhledávačích.
-      Texty jsou čtivé, informačně hodnotné a celková komunikace s Lenkou je
-      velmi příjemná a profesionální. Oceňuji především naprostou samostatnost a
-      kreativitu. Své práci nejen rozumí, ale dělá ji srdcem.
+  - mainText: Lenku mohu doporučit každému, kdo má zájem o skutečně kvalitní texty.
+      Pro náš e-shop píše blogové články, newslettery, produktové popisky a
+      příspěvky na sociální sítě. Do textů umí do nich mimo jiné velmi dobře
+      zakomponovat klíčová slova, což významně přispívá k lepšímu umístění ve
+      vyhledávačích. Texty fungují, jsou informačně hodnotné a celková
+      komunikace s Lenkou je velmi příjemná a profesionální. Oceňuji především
+      naprostou samostatnost a kreativitu. Své práci nejen rozumí, ale dělá ji
+      srdcem.
     topText: LENKA SVÉ PRÁCI ROZUMÍ A DĚLÁ JI SRDCEM
     author: Jana Hromková
     authorInfo: majitelka e-shopu Jsem máma
