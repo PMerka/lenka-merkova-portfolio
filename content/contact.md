@@ -1,7 +1,7 @@
 ---
 title: "Domluvíme se? "
 ---
-Napište mi na adresu **lenka.svidrnochova@gmail.com** a domluvíme si krátký, **nezávazný hovor**.
+Napište mi na adresu **lenka.svidrnochova@gmail.com** a domluvíme si krátký, nezávazný **hovor ZDARMA**.
 
 Určitě pomůže, když v e-mailu specifikujete:
 
