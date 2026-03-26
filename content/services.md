@@ -16,11 +16,7 @@ services:
 
       * **Základní textování webu** (homepage, o nás, nabídka a další)
 
-
-
-      * **Landing page** – texty prodejní stránku, které dovedou vaši cílovku k akci
-
-
+      * **Landing page** – texty na prodejní stránku, které dovedou vaši cílovku k akci
 
       * **Produktové popisky** pro e-shopy, malé tvůrce i poskytovatele služeb
   - title: BLOGOVÉ ČLÁNKY
