@@ -16,7 +16,11 @@ services:
 
       * **Základní textování webu** (homepage, o nás, nabídka a další)
 
+
+
       * **Landing page** – texty na prodejní stránku, které dovedou vaši cílovku k akci
+
+
 
       * **Produktové popisky** pro e-shopy, malé tvůrce i poskytovatele služeb
   - title: BLOGOVÉ ČLÁNKY
@@ -29,7 +33,11 @@ services:
 
       * **Low cost:** pro ty, kteří chtějí obstojný článek za cenu dvou lístků do kina
 
+
+
       * **Standard:** promyšlený článek se skvělým poměrem cena / přínos
+
+
 
       * **Deluxe:** nejlepší SEO i GEO investice do budoucnosti webu
 
