@@ -25,11 +25,11 @@ services:
       varianty:
 
 
-      * **Low cost:** pro ty, kteří chtějí obstojný článek za nižší cenu (1 hodina práce)
+      * **Low cost:** pro ty, kteří chtějí obstojný článek za nižší cenu
 
-      * **Standard:** promyšlený článek se skvělým poměrem cena / kvalita (3 hodiny práce)
+      * **Standard:** promyšlený článek se skvělým poměrem cena / kvalita
 
-      * **Deluxe:** nejlepší SEO i GEO investice do budoucnosti webu (5 hodin práce)
+      * **Deluxe:** nejlepší SEO i GEO investice do budoucnosti webu
 
 
       Ne každému jde o to, aby byl článek vypiplaný do posledního písmenka. Pro někoho je to naopak to nejdůležitější.
