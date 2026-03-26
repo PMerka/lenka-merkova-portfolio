@@ -3,7 +3,7 @@ title: Nejste si jistí? Domluvme si nezávazný hovor!
 ---
 Napište mi na adresu **lenka.svidrnochova@gmail.com** a domluvíme si dvacetiminutový **hovor ZDARMA**.
 
-Zjistíme, co pro vás mohu udělat, a jestli jsem pro vás ta pravá. :)
+Zjistíme, co pro vás mohu uděla, a jestli jsem pro vás ta pravá. :)
 
 Určitě pomůže, když v e-mailu rovnou specifikujete:
 
