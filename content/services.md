@@ -42,8 +42,8 @@ services:
     shortText: ""
     mainText: >-
       Někdy je těžké podívat se na **vlastní texty z odstupu**. Zvlášť, když
-      jste denně ponořeni do svého oboru a co je pro vás „banální“, může být pro
-      nás smrtelníky španělská vesnice. 
+      jste denně ponořeni do svého oboru, a co je pro vás „banální“, může být
+      pro ostatní „smrtelníky“ španělská vesnice. 
 
 
       A od toho je tu **copy audit**. 
