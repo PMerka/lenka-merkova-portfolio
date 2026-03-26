@@ -35,7 +35,11 @@ services:
 
       * **Low cost:** pro ty, kteří chtějí obstojný článek za cenu dvou lístků do kina
 
+
+
       * **Standard:** promyšlený článek se skvělým poměrem cena / přínos
+
+
 
       * **Deluxe:** nejlepší SEO i GEO investice do budoucnosti webu
 
