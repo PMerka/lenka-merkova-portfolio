@@ -31,19 +31,15 @@ services:
 
       * **Low cost:** pro ty, kteří chtějí obstojný článek za nižší cenu
 
-
-
       * **Standard:** promyšlený článek se skvělým poměrem cena / přínos
-
-
 
       * **Deluxe:** nejlepší SEO i GEO investice do budoucnosti webu
 
 
-      Ne každému jde o to, aby byl článek vypiplaný do posledního písmenka. 
+      Ne každému jde o to, aby byl článek vypiplaný do posledního písmenka. Pro někoho je to naopak to nejdůležitější.
 
 
-      Pro někoho je to naopak to nejdůležitější. U mě máte možnost si vybrat přesně tu variantu článku, kterou potřebujete.
+      U mě máte možnost si vybrat přesně tu variantu článku, kterou potřebujete.
   - title: TEXTOVÝ AUDIT
     shortText: ""
     mainText: >-
