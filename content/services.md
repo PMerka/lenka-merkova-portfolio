@@ -27,7 +27,7 @@ services:
 
       * **Low cost:** pro ty, kteří chtějí obstojný článek za nižší cenu
 
-      * **Standard:** promyšlený článek se skvělým poměrem cena / kvalita
+      * **Standard:** promyšlený článek se skvělým poměrem cena / přínos
 
       * **Deluxe:** nejlepší SEO i GEO investice do budoucnosti webu
 
