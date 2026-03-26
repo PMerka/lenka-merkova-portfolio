@@ -6,7 +6,7 @@ services:
     mainText: >-
       Úspěch každého projektu záleží na mnoha dílcích velké marketingové
       skládačky. A texty? Ty jsou jedním z nich. Společně je doladíme tak, aby
-      perfektně zapadly do vaší strategie.
+      perfektně **zapadly do vaší strategie**.
 
 
       Co nabízím?
@@ -14,33 +14,48 @@ services:
 
       * **Základní textování webu** (homepage, o nás, nabídka a další) 
 
+
+
       * **Landing page** – texty prodejní stránku, které dovedou vaši cílovku k akci
+
+
 
       * **Produktové popisky** pro e-shopy, malé tvůrce i poskytovatele služeb
   - title: BLOGOVÉ ČLÁNKY
     shortText: ""
     mainText: >-
-      Chcete si vypěstovat blog, který chytře podpoří váš brand? Ráda vám s tím
-      pomůžu. A protože v dnešní době není článek jako článek, nabízím tři
+      Chcete si **vypěstovat blog**, který chytře podpoří vaši značku Ráda vám s
+      tím pomůžu. A protože v dnešní době není článek jako článek, nabízím tři
       varianty:
 
 
       * **Low cost:** pro ty, kteří chtějí obstojný článek za nižší cenu (1 hodina práce)
 
+
+
       * **Standard:** promyšlený článek se skvělým poměrem cena / kvalita (3 hodiny práce)
+
+
 
       * **Deluxe:** nejlepší SEO i GEO investice do budoucnosti webu (5 hodin práce)
 
 
-      Ne každému jde o to, aby byl článek vypiplaný do posledního písmenka. Pro někoho je to naopak to nejdůležitější. U mě máte možnost si vybrat přesně tu variantu článku, kterou potřebujete.
+      Ne každému jde o to, aby byl článek vypiplaný do posledního písmenka. 
+
+
+      Pro někoho je to naopak to nejdůležitější. U mě máte možnost si vybrat přesně tu variantu článku, kterou potřebujete.
   - title: TEXTOVÝ AUDIT
     shortText: ""
     mainText: >-
       Někdy je těžké podívat se na **vlastní texty z odstupu**. Zvlášť, když
       jste denně ponořeni do svého oboru a co je pro vás „banální“, může být pro
-      nás smrtelníky španělská vesnice. A od toho je tu **copy audit**. Projdu
-      váš web, upozorním na nedostatky, vypíchnu příležitosti ke zlepšení a
-      navrhnu, jak to udělat lépe.
+      nás smrtelníky španělská vesnice. 
+
+
+      A od toho je tu **copy audit**. 
+
+
+      Projdu váš web, upozorním na nedostatky, vypíchnu příležitosti ke zlepšení a navrhnu, jak to udělat lépe.
 
 
       A kdo ví? Třeba zjistíte, že máte všechno ťip ťop a není potřeba nic upravovat. :)
