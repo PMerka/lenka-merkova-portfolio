@@ -26,18 +26,16 @@ services:
   - title: BLOGOVÉ ČLÁNKY
     shortText: ""
     mainText: >-
-      Chcete si **vypěstovat blog**, který chytře podpoří vaši značku Ráda vám s
-      tím pomůžu. A protože v dnešní době není článek jako článek, nabízím tři
-      varianty:
+      Chcete si **vypěstovat blog**, který chytře podpoří vaši značku? Ráda vám
+      s tím pomůžu.
+
+
+      A protože v dnešní době není článek jako článek, nabízím tři varianty:
 
 
       * **Low cost:** pro ty, kteří chtějí obstojný článek za cenu dvou lístků do kina
 
-
-
       * **Standard:** promyšlený článek se skvělým poměrem cena / přínos
-
-
 
       * **Deluxe:** nejlepší SEO i GEO investice do budoucnosti webu
 
