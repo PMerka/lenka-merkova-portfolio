@@ -5,8 +5,10 @@ services:
     shortText: ""
     mainText: >-
       Úspěch každého projektu záleží na mnoha dílcích velké marketingové
-      skládačky. A texty? Ty jsou jedním z nich. Společně je doladíme tak, aby
-      perfektně **zapadly do vaší strategie**.
+      skládačky. A texty? Ty jsou jedním z nich.
+
+
+      Společně je doladíme tak, aby perfektně **zapadly do vaší strategie**.
 
 
       Co nabízím?
