@@ -48,7 +48,7 @@ services:
 
 
       U mě máte možnost si vybrat přesně tu variantu článku, kterou potřebujete.
-  - title: TEXTOVÝ AUDIT
+  - title: TEXTOVÝ MINI AUDIT
     shortText: ""
     mainText: >-
       Někdy je těžké podívat se na **vlastní texty z odstupu**. 
