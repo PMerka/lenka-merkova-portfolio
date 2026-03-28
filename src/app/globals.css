@@ -1,7 +1,8 @@
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
-  --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
+  --font-mono:
+    ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
     "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro",
     "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
 
@@ -23,9 +24,9 @@ body {
 }
 
 h1 {
-  font-size: 3rem !important;
-  font-weight: 600;
-  font-family: var(--oooh-baby) !important;
+  font-size: 2.8rem !important;
+  font-weight: 300;
+  font-family: var(--font-cinzel) !important;
 }
 
 h2 {
